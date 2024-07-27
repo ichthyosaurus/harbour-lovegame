@@ -1,0 +1,10 @@
+# This file is part of harbour-lovegame.
+# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-FileCopyrightText: 2021-2024 Mirian Margiani
+#
+# FORMAT:
+# * date Author's Name <author's email> version-release
+# - Summary of changes
+
+* Sun May 01 2022 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.0.0-1
+- initial release

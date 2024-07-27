@@ -1,0 +1,12 @@
+# This file is part of harbour-lovegame.
+# SPDX-FileCopyrightText: 2022-2024 Mirian Margiani
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+build*
+*.user
+*~
+docs
+icon-src/raw
+
+libs/opal-docs
+libs/opal-translations
