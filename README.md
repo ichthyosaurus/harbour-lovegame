@@ -18,7 +18,7 @@ SPDX-License-Identifier: GFDL-1.3-or-later
 36 Questions is a game about bonding.
 
 
-Connect to another person on a deeply personal level by sharing answers
+Connect with another person on a deeply personal level by sharing answers
 to a series of questions.
 
 36 Questions uses the 36 questions developed in Aron et al. (1997, PSPB 23/4)

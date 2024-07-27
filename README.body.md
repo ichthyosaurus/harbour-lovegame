@@ -6,7 +6,7 @@ __name is a game about bonding.
 })dnl
 ifdef(${__X_description}, ${
 
-Connect to another person on a deeply personal level by sharing answers
+Connect with another person on a deeply personal level by sharing answers
 to a series of questions.
 
 __name uses the 36 questions developed in Aron et al. (1997, PSPB 23/4)
