@@ -14,49 +14,49 @@
     <message>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hintergrund</translation>
     </message>
     <message>
         <source>Article (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Artikel (PDF)</translation>
     </message>
     <message>
         <source>Text of the 36 questions</source>
-        <translation type="unfinished"></translation>
+        <translation>Text der 36 Fragen</translation>
     </message>
     <message>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Fragen und Anweisungen wurden von Aron et al. (1997: 374f) übernommen und teilweise für dieses Spiel leicht angepasst.</translation>
     </message>
     <message>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese App ist inspiriert von „Love Game“ für Android von Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Spiel folgt Aron et al. (1997, PSPB 23/4).</translation>
     </message>
     <message>
         <source>Allow skipping timers</source>
-        <translation type="unfinished"></translation>
+        <translation>Timer überspringen</translation>
     </message>
 </context>
 <context>
     <name>AskForSupport</name>
     <message>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte nimm dir einen Moment Zeit, um zu überlegen, ob du auf die ein oder andere Weise zu diesem Projekt beitragen kannst.</translation>
     </message>
 </context>
 <context>
     <name>DetailsDrawer</name>
     <message>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>weniger zeigen</translation>
     </message>
     <message>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>mehr zeigen</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation>Anleitung</translation>
     </message>
     <message>
         <source>This game is about getting close to another person through sharing.</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Los geht&apos;s!</translation>
     </message>
 </context>
 <context>
