@@ -5,9 +5,7 @@
 # TRANSLATORS
 # If you added a new translation catalog, please append its file name to this
 # list. Just copy the last line and modify it as needed.
-TRANSLATIONS += \
-    translations/harbour-lovegame-en.ts
-    translations/harbour-lovegame-de.ts
+TRANSLATIONS += translations/harbour-lovegame-*.ts
 
 # Application name defined in TARGET has a corresponding QML filename.
 # If name defined in TARGET is changed, the following needs to be done
