@@ -142,7 +142,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation>Desarrollar en Github</translation>
+        <translation>Desarrollar en GitHub</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
