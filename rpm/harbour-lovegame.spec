@@ -10,7 +10,7 @@ Name:       harbour-lovegame
 %define __provides_exclude_from ^%{_datadir}/.*$
 
 Summary:    A game about bonding.
-Version:    1.0.1
+Version:    1.1.0
 Release:    1
 Group:      Amusements/Games
 License:    GPL-3.0-or-later
