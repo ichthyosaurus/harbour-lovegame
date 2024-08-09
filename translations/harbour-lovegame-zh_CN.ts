@@ -6,33 +6,33 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>鸣谢</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="54"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished"></translation>
+        <translation>有关粘接键合的游戏。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>背景</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="88"/>
         <source>Article (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>文章（PDF）</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有问题和指引都是从Aron et al. (1997: 374f)复制过来的；而且它只是被略经修改而已。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>这应用是改编自阿努拉格-亚查曼尼尼的安卓爱情游戏 (Love Game for Android by Anuraag Yachameni)。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="127"/>
         <source>Allow skipping timers</source>
-        <translation type="unfinished"></translation>
+        <translation>允许跳过计时器</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="59"/>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>请花一点时间考虑，如果你可以以这样或那样的方式为这个项目作出贡献。</translation>
     </message>
 </context>
 <context>
@@ -63,12 +63,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>显示更少</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>显示更多</translation>
     </message>
 </context>
 <context>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation>如何玩</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
@@ -91,7 +91,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>这个游戏是关于通过分享接近另一个人。</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
