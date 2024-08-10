@@ -596,7 +596,7 @@
         <translation>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-lovegame.qml" line="74"/>
+        <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
         <translation>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</translation>
     </message>
@@ -611,7 +611,7 @@
         <translation>When did you last cry in front of another person? By yourself?</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-lovegame.qml" line="77"/>
+        <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
         <translation>Tell your partner something that you like about them already.</translation>
     </message>

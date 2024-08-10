@@ -586,7 +586,7 @@
         <translation>Teilen Sie, was Ihnen wichtig wäre, dass die andere Person weiß, wenn Sie mit Ihrem Gegenüber eng befreundet werden würden.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-lovegame.qml" line="74"/>
+        <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
         <translation>Sagen Sie, was Sie an Ihrem Gegenüber mögen. Seien Sie dieses Mal sehr ehrlich und sagen Sie Dinge, die Sie vielleicht nicht zu jemandem sagen würden, den Sie gerade erst kennengelernt haben.</translation>
     </message>
@@ -601,7 +601,7 @@
         <translation>Wann haben Sie zuletzt in Gegenwart anderer geweint? Wann zuletzt alleine?</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-lovegame.qml" line="77"/>
+        <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
         <translation>Sagen Sie etwas, das Sie an Ihrem Gegenüber bereits mögen.</translation>
     </message>

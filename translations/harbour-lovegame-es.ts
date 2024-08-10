@@ -610,7 +610,7 @@
         <translation>Si fueras a entablar una amistad íntima con tu pareja, por favor, comparte lo que sería importante que él o ella supiera.</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-lovegame.qml" line="74"/>
+        <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
         <translation>Dile a tu pareja lo que te gusta de ella; sé muy sincero esta vez, diciéndole cosas que no le dirías a alguien que acabas de conocer.</translation>
     </message>
@@ -625,7 +625,7 @@
         <translation>¿Cuándo lloraste por última vez delante de otra persona? ¿Solo?</translation>
     </message>
     <message>
-        <location filename="../qml/harbour-lovegame.qml" line="77"/>
+        <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
         <translation>Dile a tu pareja algo que ya te guste de ella.</translation>
     </message>
