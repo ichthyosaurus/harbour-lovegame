@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="54"/>
         <source>A game about bonding.</source>
-        <translation>Ein Spiel über Bindung.</translation>
+        <translation>Ein Spiel für emotionale Verbundenheit.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="83"/>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation>Das Spiel folgt Aron et al. (1997, PSPB 23/4).</translation>
+        <translation>Das Spiel baut auf dem Artikel von Aron et al. (1997, PSPB 23/4) auf.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="127"/>
@@ -86,22 +86,22 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation>In diesem Spiel geht es darum, einer anderen Person durch Teilen nahe zu kommen.</translation>
+        <translation>In diesem Spiel geht es darum, einer anderen Person durch das Teilen persönlicher Erfahrungen näher zu kommen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation>Sie erhalten 36 Aufgaben. Einer von euch sollte eine laut vorlesen, und dann tun &lt;b&gt;beide&lt;/b&gt;, was sie verlangt, beginnend mit der Person, die die Aufgabe laut vorgelesen hat.</translation>
+        <translation>Sie erhalten 36 Aufgaben und wechseln sich mit dem Vorlesen ab. Anschließend führen &lt;b&gt;beide&lt;/b&gt; die Aufgabe aus, wobei die vorlesende Person beginnt.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation>Wechseln Sie sich damit ab, Ihrem Partner jede Frage vorzulesen. Wenn es Ihnen eine Frage stellt, teilen Sie Ihre Antwort mit und lassen Sie es dann seine Antwort mit Ihnen teilen. Wenn es eine Aufgabe ist, mach sie zuerst und lass sie dann deinen Partner machen.</translation>
+        <translation>Wechseln Sie sich damit ab, Ihrem Gegenüber jede Frage vorzulesen: Wenn es eine Frage ist, beantworten Sie sie beide und wenn es eine Aufgabe ist, führen Sie sie beide aus.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation>Nehmen Sie sich viel Zeit für jeden Artikel und erledigen Sie das, was er verlangt, gründlich und durchdacht - aber &lt;b&gt;überspringen Sie keinen&lt;/b&gt; Artikel.</translation>
+        <translation>Nehmen Sie sich viel Zeit für jede Frage und antworten Sie gründlich und überlegt. Sie dürfen &lt;b&gt;keinesfalls&lt;/b&gt; Fragen überspringen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
@@ -409,7 +409,7 @@
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="163"/>
         <source>Restart</source>
-        <translation>Neustarten</translation>
+        <translation>Noch einmal spielen</translation>
     </message>
 </context>
 <context>
@@ -451,62 +451,62 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation>Wenn Sie die Wahl hätten, wen würden Sie sich als Dinnergast wünschen?</translation>
+        <translation>Wen würden Sie wählen, wenn Sie mit einer beliebigen Person ein Abendessen geniessen dürften?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation>Möchten Sie berühmt werden? In welcher Weise?</translation>
+        <translation>Wären Sie gerne berühmt? In welcher Weise?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation>Üben Sie vor einem Telefonanruf, was Sie sagen werden? Warum?</translation>
+        <translation>Üben Sie je vor einem Telefonanruf, was Sie sagen werden? Warum?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation>Wie würde ein &quot;perfekter&quot; Tag für Sie aussehen?</translation>
+        <translation>Wie würde ein „perfekter“ Tag für Sie aussehen?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="49"/>
         <source>When did you last sing to yourself? To someone else?</source>
-        <translation>Wann hast du das letzte Mal für dich selbst gesungen? An jemand anderen?</translation>
+        <translation>Wann haben Sie zuletzt für sich selbst gesungen? Wann in Gegenwart anderer?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation>Wenn Sie in der Lage wären, 90 Jahre alt zu werden und in den letzten 60 Jahren Ihres Lebens entweder den Geist oder den Körper eines 30-Jährigen zu behalten, was würden Sie sich wünschen?</translation>
+        <translation>Wofür würden Sie sich entscheiden, wenn Sie 90 Jahre alt werden und in den letzten 60 Jahren entweder den Geist oder den Körper eines 30-jährigen Menschen behalten könnten?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="51"/>
         <source>Do you have a secret hunch about how you will die?</source>
-        <translation>Hast du eine geheime Ahnung, wie du sterben wirst?</translation>
+        <translation>Haben Sie eine geheime Ahnung, wie Sie sterben werden?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="52"/>
         <source>Name three things you and your partner appear to have in common.</source>
-        <translation>Nennen Sie drei Dinge, die Sie und Ihr Partner gemeinsam zu haben scheinen.</translation>
+        <translation>Nennen Sie drei Dinge, die Sie und Ihr Gegenüber gemeinsam haben.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation>Wofür in deinem Leben bist du am dankbarsten?</translation>
+        <translation>Wofür in Ihrem Leben sind Sie am dankbarsten?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="54"/>
         <source>If you could change anything about the way you were raised, what would it be?</source>
-        <translation>Wenn du etwas an der Art und Weise ändern könntest, wie du erzogen wurdest, was wäre das?</translation>
+        <translation>Was würden Sie ändern, wenn Sie Ihre Erziehung rückwirkend verändern könnten?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation>Nehmen Sie sich vier Minuten Zeit und erzählen Sie Ihrem Partner Ihre Lebensgeschichte so detailliert wie möglich.</translation>
+        <translation>Nehmen Sie sich vier Minuten Zeit und erzählen Sie Ihrem Gegenüber Ihre Lebensgeschichte so detailliert wie möglich.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation>Wenn du morgen aufwachen könntest, nachdem du eine bestimmte Eigenschaft oder Fähigkeit erlangt hättest, welche wäre das?</translation>
+        <translation>Was würden Sie wählen, wenn Sie bis morgen über Nacht eine einzige Eigenschaft oder Fähigkeit erlangen könnten?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
@@ -517,7 +517,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation>Wenn eine Kristallkugel dir die Wahrheit über dich selbst, dein Leben, die Zukunft oder irgendetwas anderes sagen könnte, was würdest du wissen wollen?</translation>
+        <translation>Was würden Sie wissen wollen, wenn Sie in einer Kristallkugel die Wahrheit über sich selbst, Ihr Leben, die Zukunft oder irgendetwas anderes sehen könnten?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="59"/>
@@ -532,7 +532,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="61"/>
         <source>What do you value most in a friendship?</source>
-        <translation>Was schätzt du an einer Freundschaft am meisten?</translation>
+        <translation>Was schätzen Sie am meisten in einer Freundschaft?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="62"/>
@@ -547,32 +547,32 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation>Wenn du wüsstest, dass du in einem Jahr plötzlich sterben würdest, würdest du dann irgendetwas an deiner jetzigen Lebensweise ändern? Warum?</translation>
+        <translation>Würden Sie irgendetwas in Ihrem jetzigen Leben ändern, wenn Sie wüssten, dass Sie in einem Jahr plötzlich sterben würden? Warum?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="65"/>
         <source>What does friendship mean to you?</source>
-        <translation>Was bedeutet Freundschaft für dich?</translation>
+        <translation>Was bedeutet Freundschaft für Sie?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="66"/>
         <source>What roles do love and affection play in your life?</source>
-        <translation>Welche Rolle spielen Liebe und Zuneigung in deinem Leben?</translation>
+        <translation>Welche Rolle spielen Liebe und Zuneigung in Ihrem Leben?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation>Wechseln Sie sich ab, indem Sie etwas teilen, das Sie als positive Eigenschaft Ihres Partners betrachten. Teilen Sie insgesamt fünf Artikel.</translation>
+        <translation>Sagen Sie abwechselnd eine positive Eigenschaft Ihres Gegenübers. Teilen Sie fünf Punkte.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation>Wie eng und herzlich ist Ihre Familie? Hast du das Gefühl, dass deine Kindheit glücklicher war als die der meisten anderen Menschen?</translation>
+        <translation>Wie eng und herzlich ist Ihre Familie? Haben Sie das Gefühl, dass Ihre Kindheit glücklicher war als die der meisten anderen Menschen?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="69"/>
         <source>How do you feel about your relationship with your mother?</source>
-        <translation>Wie denkst du über deine Beziehung zu deiner Mutter?</translation>
+        <translation>Wie fühlen Sie sich in der Beziehung zu Ihrer Mutter?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="70"/>
@@ -583,27 +583,27 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation>Wenn Sie mit Ihrem Partner eng befreundet werden wollen, teilen Sie ihm bitte mit, was für ihn oder sie wichtig wäre.</translation>
+        <translation>Teilen Sie, was Ihnen wichtig wäre, dass die andere Person weiß, wenn Sie mit Ihrem Gegenüber eng befreundet werden würden.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation>Sagen Sie Ihrem Partner, was Sie an ihm mögen; Sei dieses Mal sehr ehrlich und sage Dinge, die du vielleicht nicht zu jemandem sagst, den du gerade erst kennengelernt hast.</translation>
+        <translation>Sagen Sie, was Sie an Ihrem Gegenüber mögen. Seien Sie dieses Mal sehr ehrlich und sagen Sie Dinge, die Sie vielleicht nicht zu jemandem sagen würden, den Sie gerade erst kennengelernt haben.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
         <source>Share with your partner an embarrassing moment in your life.</source>
-        <translation>Teilen Sie mit Ihrem Partner einen peinlichen Moment in Ihrem Leben.</translation>
+        <translation>Teilen Sie mit Ihrem Gegenüber einen peinlichen Moment aus Ihrem Leben.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="76"/>
         <source>When did you last cry in front of another person? By yourself?</source>
-        <translation>Wann hast du das letzte Mal vor einer anderen Person geweint? Alleine?</translation>
+        <translation>Wann haben Sie zuletzt in Gegenwart anderer geweint? Wann zuletzt alleine?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner something that you like about them already.</source>
-        <translation>Sag deinem Partner etwas, das du bereits an ihm magst.</translation>
+        <translation>Sagen Sie etwas, das Sie an Ihrem Gegenüber bereits mögen.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
@@ -613,37 +613,37 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation>Wenn du heute Abend sterben würdest, ohne die Möglichkeit zu haben, mit irgendjemandem zu kommunizieren, was würdest du am meisten bereuen, wenn du es niemandem erzählt hättest? Warum hast du es ihnen noch nicht gesagt?</translation>
+        <translation>Was würden Sie am meisten bereuen, nicht ausgesprochen zu haben, wenn Sie heute Abend sterben würden ohne vorher mit jemandem sprechen zu können? Warum haben Sie es bis jetzt nicht gesagt?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation>Dein Haus, in dem sich alles befindet, was du besitzt, fängt Feuer. Nachdem du deine Lieben und Haustiere gerettet hast, hast du Zeit, einen letzten Sprint zu machen, um einen Gegenstand zu retten. Was wäre das? Warum?</translation>
+        <translation>Ihr Haus mit all Ihren Sachen brennt nieder. Nachdem Sie Ihre Lieben und Haustiere gerettet haben, haben Sie gerade noch Zeit, um einen Gegenstand zu retten. Was wäre es? Warum?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="81"/>
         <source>Of all the people in your family, whose death would you find most disturbing? Why?</source>
-        <translation>Wessen Tod von allen Menschen in Ihrer Familie würden Sie am meisten beunruhigen? Warum?</translation>
+        <translation>Wessen Tod von allen Menschen in Ihrer Familie würden Sie am meisten verstören? Warum?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation>Teilen Sie ein persönliches Problem mit und fragen Sie Ihren Partner um Rat, wie er oder sie damit umgehen könnte. Bitte deinen Partner auch, dir zu reflektieren, wie du dich über das Problem fühlst, das du dir ausgesucht hast.</translation>
+        <translation>Teilen Sie ein persönliches Problem und fragen Sie um Rat, wie Ihr Gegenüber damit umgehen würde. Bitten Sie Ihr Gegenüber, Ihnen zu reflektieren, wie Sie sich mit dem Problem zu fühlen scheinen, das Sie ausgesucht haben.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation>Machen Sie jeweils drei echte &quot;Wir&quot;-Aussagen. Zum Beispiel: &quot;Wir sind beide in diesem Raum und fühlen ...&quot;</translation>
+        <translation>Machen Sie jeweils drei zutreffende „Wir“-Aussagen. Zum Beispiel: „Wir sind beide in diesem Raum und fühlen uns ...“</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
         <source>Complete this sentence: “I wish I had someone with whom I could share ...”</source>
-        <translation>Vervollständige diesen Satz: &quot;Ich wünschte, ich hätte jemanden, mit dem ich teilen könnte ...&quot;</translation>
+        <translation>Vervollständigen Sie diesen Satz: „Ich wünschte, ich hätte jemanden, mit dem ich teilen könnte, ...“</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
         <source>Done?&lt;br&gt;&lt;br&gt;Now look into the eyes of your partner silently for four minutes.</source>
-        <translation>Fertig? &lt;br&gt;&lt;br&gt;Schauen Sie nun vier Minuten lang schweigend in die Augen Ihres Partners.</translation>
+        <translation>Fertig? &lt;br&gt;&lt;br&gt;Schauen Sie nun vier Minuten lang schweigend in die Augen Ihres Gegenübers.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="36"/>
