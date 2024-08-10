@@ -9,6 +9,14 @@ import "modules/Opal/About"
 
 ChangelogList {
     ChangelogItem {
+        version: "1.1.1-1"
+        date: "2024-08-10"
+        paragraphs: [
+            "- Updated translations: German<br>" +
+            "- Switched Q28 and Q31 because it makes more sense than the original order"
+        ]
+    }
+    ChangelogItem {
         version: "1.1.0-1"
         date: "2024-08-09"
         paragraphs: [

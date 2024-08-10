@@ -6,6 +6,10 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Sat Aug 10 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.1.1-1
+- Updated translations: German
+- Switched Q28 and Q31 because it makes more sense than the original order
+
 * Fri Aug 09 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.1.0-1
 - Added and updated translations: German, Spanish, Indonesian, Ukrainian, Hungarian, Chinese
 
