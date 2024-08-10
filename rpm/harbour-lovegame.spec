@@ -25,7 +25,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-Connect to another person on a deeply personal level by sharing answers
+Connect with another person on a deeply personal level by sharing answers
 to a series of questions.
 
 
