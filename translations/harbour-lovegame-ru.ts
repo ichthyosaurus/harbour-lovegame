@@ -6,7 +6,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Благодарности</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="54"/>
@@ -17,7 +17,7 @@
         <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фон</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="88"/>
@@ -81,7 +81,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Как играть</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
