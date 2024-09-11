@@ -76,12 +76,12 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="41"/>
         <source>About</source>
-        <translation type="unfinished">О программе</translation>
+        <translation>О программе</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished">Как играть</translation>
+        <translation>Как играть</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
