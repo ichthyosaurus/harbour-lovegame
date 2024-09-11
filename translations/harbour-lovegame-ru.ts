@@ -6,48 +6,48 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished">Благодарности</translation>
+        <translation>Благодарности</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="54"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Игра про налаживание связей.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished">Фон</translation>
+        <translation>Фон</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="88"/>
         <source>Article (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Статья (PDF)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Все вопросы и инструкции были скопированы из Aron et al. (1997: 374f) и были лишь немного адаптированы для этой игры.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>Это приложение было создано по образу Love Game для Android от Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation>Эта игра основана на статье Aron et al. (1997, PSPB 23/4).</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="127"/>
         <source>Allow skipping timers</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропуск таймеров</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="59"/>
         <source>Text of the 36 questions</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст 36 вопросов</translation>
     </message>
 </context>
 <context>
@@ -55,7 +55,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, подумайте, как вы можете помочь этому проекту чем бы то ни было.</translation>
     </message>
 </context>
 <context>
@@ -63,7 +63,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>показать меньше</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
@@ -101,12 +101,12 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поочерёдно зачитывайте каждый вопрос своему партнёру. Если вопрос задают вам, поделитесь ответом, а затем дайте им поделиться их ответом с вами. Если это действие, то сначала совершите его сами, а затем позвольте своему партнёру.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation>Уделите достаточно времени каждому заданию, делайте то, что написано, основательно и вдумчиво - но &lt;b&gt;не пропускайте&lt;/b&gt; ни одно задание.</translation>
+        <translation>Уделите достаточно времени каждому заданию, делая то, что написано, основательно и вдумчиво - но &lt;b&gt;не пропускайте&lt;/b&gt; ни одно задание.</translation>
     </message>
 </context>
 <context>
@@ -122,42 +122,42 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожертвовать на Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Оплатите стоимость чашки кофе, куска пиццы или билета в театр.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевести на Weblate</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Помогите с переводом этого приложения на как можно больше языков.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Разработка на GitHub</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поддержите техническое обслуживание и пекеджинг, пишите код или предоставляйте ценные сообщения об ошибках.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>Почему тебе не должно быть всё равно?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>Этот проект сделан с любовью и увлечением одним разработчиком в его свободное время и предоставляется вам бесплатно.</translation>
+        <translation>Этот проект сделан с любовью и увлечением одним-единственным разработчиком в свободное время и предоставляется вам бесплатно.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
@@ -167,17 +167,17 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>Зачем платить пожертвования?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla подняли цены и пытаются принудить разработчиков (которые работают бесплатно) платить аренду Sailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>Если вы можете себе это позволить, донат - самый простой способ помочь мне продолжить работу над приложениями для Sailfish. Приветствуется любая поддержка: будь то чашка кофе, кусочек пиццы или что-то другое.</translation>
+        <translation>Если вы можете себе это позволить, пожертвование – самый простой способ помочь мне продолжить работу над приложениями для Sailfish. Приветствуется любая поддержка, будь то чашка кофе, кусочек пиццы или что-то другое.</translation>
     </message>
 </context>
 <context>
@@ -283,7 +283,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="103"/>
         <source>show contributors</source>
-        <translation>Показать участников</translation>
+        <translation>показать участников</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="111"/>
@@ -323,12 +323,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменения с версии %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, ознакомьтесь с &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -346,7 +346,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="9"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш вклад в перевод или код будет большой помощью.</translation>
     </message>
 </context>
 <context>
@@ -364,7 +364,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть внешне</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="36"/>
@@ -400,13 +400,13 @@
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="63"/>
         <source>END</source>
-        <translation type="unfinished"></translation>
+        <translation>КОНЕЦ</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="88"/>
         <source>Have a pleasant day!</source>
         <comment>translate as plural as two people are addressed</comment>
-        <translation>Приятного дня!</translation>
+        <translation>Приятного вам дня!</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="163"/>
@@ -424,7 +424,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="10"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation>Спасибо за использование моего небольшого приложения! Может быть, Вы сможете внести свой вклад в ответ?</translation>
+        <translation>Спасибо за использование моего небольшого приложения! Может, вы сможете внести свой вклад взамен?</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="11"/>
@@ -456,23 +456,23 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>Если бы вы проснулись завтра с новым качеством или способностью, что бы это было?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation>Если бы хрустальный шар мог рассказать вам всю правду о вас, вашей жизни, будущем или о чём-нибудь другом, что бы вы хотели узнать?</translation>
+        <translation>Если бы хрустальный шар мог рассказать вам всю правду о вас, вашей жизни, будущем или о чём-нибудь другом, что именно вы бы хотели узнать?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="69"/>
         <source>How do you feel about your relationship with your mother?</source>
-        <translation type="unfinished"></translation>
+        <translation>Что вы чувствуете насчёт ваших отношений с матерью?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="44"/>
         <source>I.</source>
         <comment>as in &quot;1st chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>I.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
@@ -494,12 +494,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
         <source>Done?&lt;br&gt;&lt;br&gt;Now look into the eyes of your partner silently for four minutes.</source>
-        <translation>Готово?&lt;br&gt;&lt;br&gt;Теперь смотрите в глаза партнёра молча четыре минуты.</translation>
+        <translation>Всё?&lt;br&gt;&lt;br&gt;Теперь смотрите в глаза вашего партнёра молча четыре минуты.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="36"/>
         <source>36 Questions</source>
-        <translation>36 вопросов</translation>
+        <translation>36 Вопросов</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="46"/>
@@ -509,12 +509,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Прежде чем совершить звонок, вы когда-нибудь репетируете то, что собираетесь сказать? Почему?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Что бы вы назвали “идеальным” днем для себя?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="49"/>
@@ -524,37 +524,37 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished"></translation>
+        <translation>Если бы вы могли прожить до 90 лет и сохранить либо разум, либо тело 30-летнего человека в течение последних 60 лет свои жизни, что из этих двух вы бы выбрали?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="51"/>
         <source>Do you have a secret hunch about how you will die?</source>
-        <translation type="unfinished"></translation>
+        <translation>Догадываетесь ли вы втайне, как вы умрёте?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="52"/>
         <source>Name three things you and your partner appear to have in common.</source>
-        <translation type="unfinished"></translation>
+        <translation>Назовите три общие черты, которые есть и у вас, и у вашего партнёра.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation type="unfinished"></translation>
+        <translation>За что в вашей жизни вы чувствуете наибольшую благодарность?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="54"/>
         <source>If you could change anything about the way you were raised, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>Если бы вы могли поменять что-нибудь в том, как вас вырастили, что бы это было?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation>Расскажите собеседнику вашу историю из жизни, упоминая столько деталей, сколько возможно, за 4 минуты.</translation>
+        <translation>За 4 минуты, расскажите своему собеседнику историю вашей жизни, упоминая столько деталей, сколько возможно.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation>Если что-то, что вы мечтаете сделать уже долгое время? Почему вы это не сделали?</translation>
+        <translation>Есть ли что-то, что вы мечтаете сделать уже долгое время? Почему вы это не сделали?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="60"/>
@@ -594,12 +594,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поочередно делитесь тем, что вы считаете положительной чертой вашего партнера. Поделитесь в общей сложности пятью пунктами.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Насколько близка и сердечна ваша семья? Чувствуете ли вы, что ваше детство было счастливее, чем у большинства других людей?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation>Расскажите собеседнику, что вам в нём нравится; будьте предельно честны в этот раз, говорите только то, что вы бы, возможно, не сказали человеку, с которым только что познакомились</translation>
+        <translation>Расскажите собеседнику, что вам в нём нравится; будьте предельно честны в этот раз, говорите только то, что вы бы, возможно, не сказали человеку, с которым только что познакомились.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
@@ -639,22 +639,22 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished"></translation>
+        <translation>Если бы вы умерли этим вечером без возможности контактировать с кем-либо, о чём невысказанном вы бы жалели больше всего? Почему вы ещё не рассказали об этом?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>В вашем доме со всем, что вы имеете, начался пожар. После того, как вы спасли своих любимых и питомцев, у вас ещё есть время, чтобы безопасно сделать последний рывок и спасти любой один предмет. Что бы это было? Почему?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="81"/>
         <source>Of all the people in your family, whose death would you find most disturbing? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Из всех членов вашей семьи, чью смерть вы бы перенесли тяжелее всего? Почему?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделитесь личной проблемой и спросите у вашего партнёра, как он или она с ней бы справились. Также попросите его или её рассказать вам о том, как, по их мнению, вы относитесь к выбранной вами проблеме.</translation>
     </message>
 </context>
 </TS>
