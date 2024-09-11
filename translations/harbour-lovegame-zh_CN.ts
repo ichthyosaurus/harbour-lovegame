@@ -6,48 +6,48 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>Acknowledgments</source>
-        <translation>鸣谢</translation>
+        <translation>鸣谢测试鸣谢测试鸣谢测试</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="54"/>
         <source>A game about bonding.</source>
-        <translation>有关粘接键合的游戏。</translation>
+        <translation>有关粘接键合的游戏。测试</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation>背景</translation>
+        <translation>背景测试</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="88"/>
         <source>Article (PDF)</source>
-        <translation>文章（PDF）</translation>
+        <translation>文章（PDF）测试</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="77"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation>所有问题和指引都是从Aron et al. (1997: 374f)复制过来的；而且它只是被略经修改而已。</translation>
+        <translation>所有问题和指引都是从Aron et al. (1997: 374f)复制过来的；而且它只是被略经修改而已。测试</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation>这应用是改编自阿努拉格-亚查曼尼尼的安卓爱情游戏 (Love Game for Android by Anuraag Yachameni)。</translation>
+        <translation>这应用是改编自阿努拉格-亚查曼尼尼的安卓爱情游戏 (Love Game for Android by Anuraag Yachameni)。测</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation>测试</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="127"/>
         <source>Allow skipping timers</source>
-        <translation>允许跳过计时器</translation>
+        <translation>允许跳过计时器测试</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="59"/>
         <source>Text of the 36 questions</source>
-        <translation type="unfinished"></translation>
+        <translation>36个问题的正文测试</translation>
     </message>
 </context>
 <context>
@@ -76,7 +76,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="41"/>
         <source>About</source>
-        <translation type="unfinished">关于</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>我们走</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
@@ -96,12 +96,12 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>你将被分配36个任务。你们中的一个应该大声朗读一个，然后都按照它的要求去做，从大声朗读任务的人开始。</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>轮流朗读每个问题给你的搭档听。如果它问你一个问题，分享你的答案，然后让他们与你分享他们的答案。如果这是一个任务，先做，然后让你的搭档去做。</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
@@ -114,7 +114,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="119"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>许可证文本</translation>
     </message>
 </context>
 <context>
@@ -122,7 +122,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>在 Liberapay 上捐款</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助我们将应用翻译成更多的语言。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
@@ -234,22 +234,22 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished">外部链接</translation>
+        <translation>外部链接</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation type="unfinished">用浏览器打开</translation>
+        <translation>用浏览器打开</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished">复制到剪贴板：%1</translation>
+        <translation>复制到剪贴板：%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">复制到剪切板</translation>
+        <translation>复制到剪切板</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="25"/>
@@ -309,22 +309,22 @@
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="108"/>
         <location filename="../qml/modules/Opal/About/private/ChangelogPage.qml" line="16"/>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>更改日志</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="60"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>新闻</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>自版本 %1 以来的更改</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>请参考 &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -332,7 +332,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="7"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation>如果你想支持我的工作，你可以请我喝杯咖啡。</translation>
+        <translation>如果你想支持我的工作，你可以给我买一杯咖啡。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
@@ -360,7 +360,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>用外部应用打开</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="36"/>
