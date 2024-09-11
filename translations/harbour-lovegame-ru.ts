@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Помогите с переводом этого приложения на как можно больше языков.</translation>
+        <translation>Помогите перевести это приложение на столько языков, сколько возможно.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
@@ -619,22 +619,22 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
         <source>Share with your partner an embarrassing moment in your life.</source>
-        <translation type="unfinished"></translation>
+        <translation>Поделитесь с собеседником неловким моментом в вашей жизни.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="76"/>
         <source>When did you last cry in front of another person? By yourself?</source>
-        <translation type="unfinished"></translation>
+        <translation>Когда вы в последний раз плакали в присутствии другого человека? В одиночестве?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
-        <translation type="unfinished"></translation>
+        <translation>Расскажите собеседнику то, что вам уже нравится в нём.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished"></translation>
+        <translation>Что, если уж на то пошло, слишком серьёзно, чтобы над этим шутить?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
