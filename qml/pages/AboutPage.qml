@@ -98,6 +98,84 @@ A.AboutPageBase {
         },
 
         //>>> GENERATED LIST OF TRANSLATION CREDITS
+        A.ContributionSection {
+            title: qsTr("Translations")
+            groups: [
+                A.ContributionGroup {
+                    title: qsTr("Turkish")
+                    entries: [
+                        "Ugur Saglam"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Swedish")
+                    entries: [
+                        "Allan Nordhøy"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Spanish")
+                    entries: [
+                        "gallegonovato"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Russian")
+                    entries: [
+                        "Lilia Savciuc",
+                        "Marat Ismailov",
+                        "Nikita",
+                        "ViKor"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Norwegian Bokmål")
+                    entries: [
+                        "Allan Nordhøy"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Italian")
+                    entries: [
+                        "Diego Festari"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Indonesian")
+                    entries: [
+                        "Reza Almanda"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Hungarian")
+                    entries: [
+                        "Sz. G."
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("German")
+                    entries: [
+                        "Mirian Margiani",
+                        "Natalia N"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("English")
+                    entries: [
+                        "Allan Nordhøy",
+                        "Mirian Margiani"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Chinese")
+                    entries: [
+                        "Jason Cai",
+                        "pyccl",
+                        "wu"
+                    ]
+                }
+            ]
+        }
         //<<< GENERATED LIST OF TRANSLATION CREDITS
     ]
 
