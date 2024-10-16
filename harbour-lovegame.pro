@@ -2,11 +2,6 @@
 # SPDX-FileCopyrightText: 2022-2024 Mirian Margiani
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-# TRANSLATORS
-# If you added a new translation catalog, please append its file name to this
-# list. Just copy the last line and modify it as needed.
-TRANSLATIONS += translations/harbour-lovegame-*.ts
-
 # Application name defined in TARGET has a corresponding QML filename.
 # If name defined in TARGET is changed, the following needs to be done
 # to match new name:
@@ -16,7 +11,6 @@ TRANSLATIONS += translations/harbour-lovegame-*.ts
 #   - icon definition filename in desktop file must be changed
 #   - translation filenames have to be changed
 TARGET = harbour-lovegame
-
 CONFIG += sailfishapp
 
 # Note: version number is configured in yaml
@@ -49,3 +43,4 @@ SAILFISHAPP_ICONS = 86x86 108x108 128x128 172x172
 # to disable building translations every time, comment out the
 # following CONFIG line
 CONFIG += sailfishapp_i18n
+TRANSLATIONS += translations/harbour-lovegame-*.ts
