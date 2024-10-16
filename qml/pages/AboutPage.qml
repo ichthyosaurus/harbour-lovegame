@@ -18,7 +18,6 @@
 import QtQuick 2.0
 import Sailfish.Silica 1.0 as S
 import Opal.About 1.0 as A
-import "../modules/Opal/Attributions"
 import "../components"
 
 A.AboutPageBase {
@@ -46,6 +45,7 @@ A.AboutPageBase {
 
     description: qsTr("A game about bonding.")
     mainAttributions: ["2022-%1 Mirian Margiani".arg((new Date()).getFullYear())]
+    autoAddOpalAttributions: true
 
     attributions: [
         A.Attribution {
@@ -59,9 +59,7 @@ A.AboutPageBase {
             licenses: A.License { spdxId: "MIT" }
             homepage: "https://f-droid.org/en/packages/me.anuraag.loveactualized/"
             sources: "https://github.com/hackathoner/LoveGame"
-        },
-        OpalAboutAttribution {},
-        OpalSupportMeAttribution {}
+        }
     ]
 
     extraSections: [
