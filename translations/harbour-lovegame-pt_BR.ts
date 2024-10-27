@@ -6,18 +6,18 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">https://github.com/ichthyosaurus/harbour-lovegame</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished"></translation>
+        <translation>https://github.com/ichthyosaurus/harbour-lovegame</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>https://github.com/ichthyosaurus/harbour-lovegame</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
