@@ -57,27 +57,27 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="102"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertimai</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkų</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Švedų</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="117"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Ispanų</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="123"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rusų</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="132"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italų</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
@@ -102,12 +102,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="156"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Vokiečių</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="163"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Anglų</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="170"/>
@@ -138,12 +138,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti mažiau</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodyti daugiau</translation>
     </message>
 </context>
 <context>
@@ -151,12 +151,12 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="41"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Apie</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation>Žaidimo instrukcijos</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
@@ -197,7 +197,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Aukoti per Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
@@ -260,7 +260,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="15"/>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>Detaliau</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="23"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ačiū!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
@@ -314,12 +314,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti naršyklėje</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nukopijuota: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
@@ -351,7 +351,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="85"/>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Versija %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="104"/>
@@ -361,7 +361,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="112"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertimai</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="124"/>
@@ -371,7 +371,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="130"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencija</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="135"/>
@@ -389,12 +389,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>Naujienos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="62"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokyčiai nuo %1 versijos</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
@@ -425,12 +425,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Išorinė nuoroda</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Atidaryti naršyklėje</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
