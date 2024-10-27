@@ -6,38 +6,38 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>Uznanie</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hra o spájaní</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pozadie</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Article (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Článok</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Všetky otázky a inštrukcie sú skopírované z Aron et al. (1997: 374f) a boli len mierne prispôsobené na túto hru.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto aplikácia je modelovaná podľa Love Game pre Android od Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation>Hra sa riadi štúdiou Arona a kol. (1997, PSPB 23/4).</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
@@ -117,12 +117,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="186"/>
         <source>Allow skipping timers</source>
-        <translation type="unfinished"></translation>
+        <translation>Povoliť preskočenie časovačov</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>Text of the 36 questions</source>
-        <translation type="unfinished"></translation>
+        <translation>Text skladaný z 36 otázok</translation>
     </message>
 </context>
 <context>
@@ -156,32 +156,32 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako hrať</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Poďme nato!</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto hra je o zbližovaní k inému človeku pomocou zdieľania.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostanete 36 úloh. Jeden z vás by mal jednu prečítať nahlas a potom &lt;b&gt;oba&lt;/b&gt; vykonáte, čo sa v nej žiada, pričom začne ten, kto úlohu prečítal nahlas.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Striedajte sa v čítaní každej otázky svojmu partnerovi. Ak sa vás opýta na niečo, zdieľajte svoju odpoveď a potom nechajte ich zdieľať svoju odpoveď s vami. Ak ide o úlohu, vykonajte ju najprv vy a potom nechajte svojho partnera, aby ju vykonal.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dajte si dostatok času na každú položku, dôkladne a premyslene vykonajte to, čo žiada – ale &lt;b&gt;nepreskakujte&lt;/b&gt; žiadnu položku.</translation>
     </message>
 </context>
 <context>
@@ -458,35 +458,35 @@
         <location filename="../qml/pages/QuestionPage.qml" line="129"/>
         <source>Chapter</source>
         <comment>as in &apos;1st Chapter&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kapitola</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="143"/>
         <source>&lt;b&gt;%1.&lt;/b&gt; %2</source>
         <comment>as in &apos;&lt;b&gt;10.&lt;/b&gt; Ask your partner...</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%1.&lt;/b&gt; %2</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="191"/>
         <location filename="../qml/pages/QuestionPage.qml" line="208"/>
         <source>Start timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Spustiť časovač</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="63"/>
         <source>END</source>
-        <translation type="unfinished"></translation>
+        <translation>Koniec</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="88"/>
         <source>Have a pleasant day!</source>
         <comment>translate as plural as two people are addressed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Majte príjemný deň!</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="163"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Reštart</translation>
     </message>
 </context>
 <context>
@@ -526,210 +526,210 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keby ste mohli pozvať kohokoľvek na svete, koho by ste chceli ako hosťa na večeru?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keby ste sa mohli zajtra zobudiť a získať akúkoľvek jednu vlastnosť alebo schopnosť, čo by to bolo?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keby krištáľová guľa mohla povedať pravdu o vás, vašom živote, budúcnosti alebo čomkoľvek inom, čo by ste chceli vedieť?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="69"/>
         <source>How do you feel about your relationship with your mother?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako sa cítite vo vzťahu so svojou matkou?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="44"/>
         <source>I.</source>
         <comment>as in &quot;1st chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>prvý</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
         <source>II.</source>
         <comment>as in &quot;2nd chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>druhý</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="70"/>
         <source>III.</source>
         <comment>as in &quot;3rd chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>tretia</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>Urobte tri pravdivé „my“ výroky, každý. Napríklad: „&quot;Obaja sme v tejto miestnosti a cítime sa ...&quot;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
         <source>Done?&lt;br&gt;&lt;br&gt;Now look into the eyes of your partner silently for four minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hotovo?&lt;br&gt;&lt;br&gt;Teraz sa na svojho partnera ticho pozerajte do očí štyri minúty.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="36"/>
         <source>36 Questions</source>
-        <translation type="unfinished"></translation>
+        <translation>36 otázok</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation type="unfinished"></translation>
+        <translation>Chceli by ste byť slávni? Akým spôsobom?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pred uskutočnením telefonátu si niekedy nacvičujete, čo poviete? Prečo?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Čo by pre vás predstavovalo „dokonalý“ deň?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="49"/>
         <source>When did you last sing to yourself? To someone else?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedy ste si naposledy spievali sám pre seba? A kedy niekomu inému?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keby ste mohli žiť do 90 rokov a zachovať si buď myseľ, alebo telo 30-ročného človeka počas posledných 60 rokov svojho života, čo by ste si vybrali?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="51"/>
         <source>Do you have a secret hunch about how you will die?</source>
-        <translation type="unfinished"></translation>
+        <translation>Máte tajné tušenie, ako zomriete?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="52"/>
         <source>Name three things you and your partner appear to have in common.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uveďte tri veci, ktoré máte so svojím partnerom spoločné.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation type="unfinished"></translation>
+        <translation>Za čo vo svojom živote sa cítite najvďačnejší?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="54"/>
         <source>If you could change anything about the way you were raised, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keby ste mohli zmeniť čokoľvek na tom, ako vás vychovali, čo by to bolo?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vezmite si štyri minúty a porozprávajte svojmu partnerovi svoj životný príbeh čo najpodrobnejšie.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Existuje niečo, o čom ste snívali už dlhý čas? Prečo ste to ešte neurobili?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="60"/>
         <source>What is the greatest accomplishment of your life?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aký je váš najväčší úspech v živote?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="61"/>
         <source>What do you value most in a friendship?</source>
-        <translation type="unfinished"></translation>
+        <translation>Čo si najviac ceníte v priateľstve?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="62"/>
         <source>What is your most treasured memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ktorá je vaša najvzácnejšia spomienka?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="63"/>
         <source>What is your most terrible memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ktorá je vaša najhoršia spomienka?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keby ste vedeli, že o rok náhle zomriete, zmenili by ste niečo na tom, ako teraz žijete? Prečo?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="65"/>
         <source>What does friendship mean to you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Čo pre vás znamená priateľstvo?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="66"/>
         <source>What roles do love and affection play in your life?</source>
-        <translation type="unfinished"></translation>
+        <translation>Akú úlohu hrajú láska a náklonnosť vo vašom živote?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Striedajte sa v zdieľaní pozitívnych vlastností vášho partnera. Zdieľajte celkom päť položiek.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ako blízka a láskyplná je vaša rodina? Cítite, že vaše detstvo bolo šťastnejšie ako to väčšiny ostatných ľudí?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
         <source>Complete this sentence: “I wish I had someone with whom I could share ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>Doplňte túto vetu: „Keby som mal niekoho, s kým by som mohol zdieľať ...&quot;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ak by ste sa mali stať blízkym priateľom svojho partnera, zdieľate čo by bolo dôležité, aby vedel.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povedzte svojmu partnerovi, čo sa vám na ňom páči; buďte tentoraz veľmi úprimní a povedzte veci, ktoré by ste možno nepovedali niekomu, koho ste práve stretli.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
         <source>Share with your partner an embarrassing moment in your life.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeľte sa so svojím partnerom o niektorý z vašich trápnych momentov v živote.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="76"/>
         <source>When did you last cry in front of another person? By yourself?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kedy ste naposledy plakali pred niekým iným? A kedy ste plakali sami?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
-        <translation type="unfinished"></translation>
+        <translation>Povedzte svojmu partnerovi niečo, čo sa vám na ňom už páči.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished"></translation>
+        <translation>Čo, ak vôbec niečo, je príliš vážne na to, aby sa o tom robili vtipy?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished"></translation>
+        <translation>Keby ste mali zomrieť dnes večer bez možnosti komunikovať s niekým, čo by ste najviac ľutovali, že ste niekomu nepovedali? Prečo ste im to ešte nepovedali?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš dom, ktorý obsahuje všetko, čo vlastníte, sa dostane do požiaru. Po tom, ako zachránite svojich blízkych a domáce zvieratá, máte čas urobiť posledný pokus a zachrániť jeden predmet. Čo by to bolo? Prečo?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="81"/>
         <source>Of all the people in your family, whose death would you find most disturbing? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ktorá smrť z vašich rodinných príslušníkov by vás najviac znepokojila? Prečo?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podeľte sa o osobný problém a požiadajte svojho partnera o radu, ako by to on alebo ona zvládol. Tiež požiadajte partnera, aby vám povedal, ako sa zdá, že sa cítite v súvislosti s problémom, ktorý ste si vybrali.</translation>
     </message>
 </context>
 </TS>
