@@ -138,7 +138,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation>réduire</translation>
+        <translation>voir moins</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
@@ -282,7 +282,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation>Merci&amp;nbsp;!</translation>
+        <translation>Merci&#x202f;!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
@@ -319,7 +319,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation>Copié dans le presse-papiers&amp;nbsp;: %1</translation>
+        <translation>Copié dans le presse-papiers: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
