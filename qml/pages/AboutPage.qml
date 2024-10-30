@@ -120,6 +120,12 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("Slovak")
+                    entries: [
+                        "Michaela Planková"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Russian")
                     entries: [
                         "Lilia Savciuc",
@@ -129,9 +135,21 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("Portuguese (Brazil)")
+                    entries: [
+                        "Julio Cesar de jesus Boaventura"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Norwegian Bokmål")
                     entries: [
                         "Allan Nordhøy"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Lithuanian")
+                    entries: [
+                        "arnas"
                     ]
                 },
                 A.ContributionGroup {
@@ -160,6 +178,18 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("French")
+                    entries: [
+                        "Adi"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Estonian")
+                    entries: [
+                        "Priit Jõerüüt"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("English")
                     entries: [
                         "Allan Nordhøy",
@@ -171,7 +201,14 @@ A.AboutPageBase {
                     entries: [
                         "Jason Cai",
                         "pyccl",
-                        "wu"
+                        "wu",
+                        "凛"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Bulgarian")
+                    entries: [
+                        "Denis"
                     ]
                 }
             ]

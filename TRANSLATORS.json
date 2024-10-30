@@ -1,11 +1,18 @@
 {
   "weblate": [
     {
+      "language": "Bulgarian",
+      "entries": [
+        "Denis"
+      ]
+    },
+    {
       "language": "Chinese",
       "entries": [
         "wu",
+        "Jason Cai",
         "pyccl",
-        "Jason Cai"
+        "凛"
       ]
     },
     {
@@ -17,7 +24,14 @@
     {
       "language": "Estonian",
       "entries": [
+        "Priit Jõerüüt",
         "Allan Nordhøy"
+      ]
+    },
+    {
+      "language": "French",
+      "entries": [
+        "Adi"
       ]
     },
     {
@@ -47,9 +61,21 @@
       ]
     },
     {
+      "language": "Lithuanian",
+      "entries": [
+        "arnas"
+      ]
+    },
+    {
       "language": "Norwegian Bokmål",
       "entries": [
         "Allan Nordhøy"
+      ]
+    },
+    {
+      "language": "Portuguese (Brazil)",
+      "entries": [
+        "Julio Cesar de jesus Boaventura"
       ]
     },
     {
@@ -59,6 +85,12 @@
         "Marat Ismailov",
         "Nikita",
         "Lilia Savciuc"
+      ]
+    },
+    {
+      "language": "Slovak",
+      "entries": [
+        "Michaela Planková"
       ]
     },
     {
