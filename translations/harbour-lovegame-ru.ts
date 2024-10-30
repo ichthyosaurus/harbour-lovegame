@@ -82,7 +82,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="132"/>
         <source>Norwegian Bokmål</source>
-        <translation type="unfinished">Норвежский букмол</translation>
+        <translation>Норвежский букмол</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
