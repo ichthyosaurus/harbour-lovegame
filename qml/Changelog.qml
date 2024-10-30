@@ -9,6 +9,15 @@ import "modules/Opal/About"
 
 ChangelogList {
     ChangelogItem {
+        version: "1.2.0-1"
+        date: "2024-10-30"
+        paragraphs: [
+            "- Updated translations: Bulgarian, Chinese, Estonian, French, Italian, Lithuanian, Portuguese (Brazil), Russian, Slovak, Turkish<br>" +
+            "- Fixed missing translations so that all available translations are actually shippped!<br>" +
+            "- Add credits for all translators, generated from Weblate"
+        ]
+    }
+    ChangelogItem {
         version: "1.1.1-1"
         date: "2024-08-10"
         paragraphs: [
