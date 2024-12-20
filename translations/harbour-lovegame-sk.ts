@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation>Hra o spájaní</translation>
+        <translation>Hra o spájaní.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portuguese (Brazílsko)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="150"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Litovčina</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="156"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulharšťina</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="223"/>
