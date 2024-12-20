@@ -27,12 +27,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas as questões e instruções foram copiadas de Aron et al. (1997:374f) e foram apenas pouquíssimo adaptadas para esse jogo.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse app foi baseado em Love Game para Android por Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
