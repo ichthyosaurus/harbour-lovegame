@@ -484,7 +484,7 @@
         <location filename="../qml/pages/QuestionPage.qml" line="129"/>
         <source>Chapter</source>
         <comment>as in &apos;1st Chapter&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>章节</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="143"/>
@@ -496,12 +496,12 @@
         <location filename="../qml/pages/QuestionPage.qml" line="191"/>
         <location filename="../qml/pages/QuestionPage.qml" line="208"/>
         <source>Start timer</source>
-        <translation type="unfinished"></translation>
+        <translation>开始倒数</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="63"/>
         <source>END</source>
-        <translation type="unfinished"></translation>
+        <translation>结束</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="88"/>
