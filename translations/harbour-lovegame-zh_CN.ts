@@ -557,60 +557,60 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>倘若明日一觉醒来，你能够拥有任意一种特质或能力，你会选择什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation type="unfinished"></translation>
+        <translation>若有一个水晶球，能如实告知你关于自身、生活、未来或其他任何事的真相，你想了解什么呢？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="69"/>
         <source>How do you feel about your relationship with your mother?</source>
-        <translation type="unfinished"></translation>
+        <translation>你如何看待自己与母亲的关系？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="44"/>
         <source>I.</source>
         <comment>as in &quot;1st chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>I.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
         <source>II.</source>
         <comment>as in &quot;2nd chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>II.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="70"/>
         <source>III.</source>
         <comment>as in &quot;3rd chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>III.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>每人各说三条以“我们”开头的真实表述。例如：“我们此刻都在这个房间里，感觉……”</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
         <source>Done?&lt;br&gt;&lt;br&gt;Now look into the eyes of your partner silently for four minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>好了吗？&lt;br&gt;&lt;br&gt;现在，静静地凝视对方的眼睛四分钟。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="36"/>
         <source>36 Questions</source>
-        <translation type="unfinished"></translation>
+        <translation>36 个问题</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想变得有名吗？在哪一方面？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>打电话之前，你会事先演练一下要说的话吗？为什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="48"/>
