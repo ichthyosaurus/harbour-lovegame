@@ -552,7 +552,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果可以选择世界上的任何人，你会想邀请谁共进晚餐？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
