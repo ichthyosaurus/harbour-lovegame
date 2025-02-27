@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation>鸣谢测试鸣谢测试鸣谢测试</translation>
+        <translation>致谢</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation>有关粘接键合的游戏。测试</translation>
+        <translation>一个关于结合的游戏。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
@@ -27,17 +27,17 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation>所有问题和指引都是从Aron et al. (1997: 374f)复制过来的；而且它只是被略经修改而已。测试</translation>
+        <translation>所有问题和说明均抄袭自阿隆等人（1997:374f），并仅对本游戏进行了轻微改编。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation>这应用是改编自阿努拉格-亚查曼尼尼的安卓爱情游戏 (Love Game for Android by Anuraag Yachameni)。测</translation>
+        <translation>这个应用程序是仿照Anuraag Yachamaneni的Android爱情游戏制作的。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation>测试</translation>
+        <translation>游戏遵循阿隆等人（1997年，PSPB 23/4）。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>葡萄牙语（巴西）</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="150"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>立陶宛语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="156"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>保加利亚语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="223"/>
@@ -191,7 +191,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation>我们走</translation>
+        <translation>开始!</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
@@ -211,7 +211,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation type="unfinished"></translation>
+        <translation>建议尽可能在每一项中花充足的时间，并仔细完成每一项的要求 - 切记&lt;b&gt;不要跳过&lt;/b&gt;任意一项。</translation>
     </message>
 </context>
 <context>
@@ -484,35 +484,35 @@
         <location filename="../qml/pages/QuestionPage.qml" line="129"/>
         <source>Chapter</source>
         <comment>as in &apos;1st Chapter&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>章节</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="143"/>
         <source>&lt;b&gt;%1.&lt;/b&gt; %2</source>
         <comment>as in &apos;&lt;b&gt;10.&lt;/b&gt; Ask your partner...</comment>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%1.&lt;/b&gt; %2</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="191"/>
         <location filename="../qml/pages/QuestionPage.qml" line="208"/>
         <source>Start timer</source>
-        <translation type="unfinished"></translation>
+        <translation>开始倒数</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="63"/>
         <source>END</source>
-        <translation type="unfinished"></translation>
+        <translation>结束</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="88"/>
         <source>Have a pleasant day!</source>
         <comment>translate as plural as two people are addressed</comment>
-        <translation type="unfinished"></translation>
+        <translation>祝你愉快！</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="163"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>重试</translation>
     </message>
 </context>
 <context>
@@ -552,210 +552,210 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果可以选择世界上的任何人，你会想邀请谁共进晚餐？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>倘若明日一觉醒来，你能够拥有任意一种特质或能力，你会选择什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation type="unfinished"></translation>
+        <translation>若有一个水晶球，能如实告知你关于自身、生活、未来或其他任何事的真相，你想了解什么呢？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="69"/>
         <source>How do you feel about your relationship with your mother?</source>
-        <translation type="unfinished"></translation>
+        <translation>你如何看待自己与母亲的关系？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="44"/>
         <source>I.</source>
         <comment>as in &quot;1st chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>I.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
         <source>II.</source>
         <comment>as in &quot;2nd chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>II.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="70"/>
         <source>III.</source>
         <comment>as in &quot;3rd chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>III.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>每人各说三条以“我们”开头的真实表述。例如：“我们此刻都在这个房间里，感觉……”</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
         <source>Done?&lt;br&gt;&lt;br&gt;Now look into the eyes of your partner silently for four minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>好了吗？&lt;br&gt;&lt;br&gt;现在，静静地凝视对方的眼睛四分钟。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="36"/>
         <source>36 Questions</source>
-        <translation type="unfinished"></translation>
+        <translation>36 个问题</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation type="unfinished"></translation>
+        <translation>你想变得有名吗？在哪一方面？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>打电话之前，你会事先演练一下要说的话吗？为什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation type="unfinished"></translation>
+        <translation>对你来说，什么是“完美”的一天？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="49"/>
         <source>When did you last sing to yourself? To someone else?</source>
-        <translation type="unfinished"></translation>
+        <translation>你最后一次给自己唱歌是什么时候？给别人？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你能活到90岁，并且在你生命的最后60年里保持30岁人的思想或身体，你会想要哪一个？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="51"/>
         <source>Do you have a secret hunch about how you will die?</source>
-        <translation type="unfinished"></translation>
+        <translation>你对自己的死法有秘密预感吗？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="52"/>
         <source>Name three things you and your partner appear to have in common.</source>
-        <translation type="unfinished"></translation>
+        <translation>说出你和你的伴侣似乎有的三件事。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation type="unfinished"></translation>
+        <translation>你一生中最感激什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="54"/>
         <source>If you could change anything about the way you were raised, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你能改变你成长的方式，你会改变什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>花四分钟，尽可能详细地告诉你的伴侣你的生活故事。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation type="unfinished"></translation>
+        <translation>有什么你梦想做很久的事吗？你为什么不做呢？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="60"/>
         <source>What is the greatest accomplishment of your life?</source>
-        <translation type="unfinished"></translation>
+        <translation>你一生中最大的成就是什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="61"/>
         <source>What do you value most in a friendship?</source>
-        <translation type="unfinished"></translation>
+        <translation>友谊中你最看重什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="62"/>
         <source>What is your most treasured memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>你最珍贵的记忆是什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="63"/>
         <source>What is your most terrible memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>你最糟糕的记忆是什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你知道一年后你会突然死去，你会改变你现在的生活方式吗？为什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="65"/>
         <source>What does friendship mean to you?</source>
-        <translation type="unfinished"></translation>
+        <translation>友谊对你来说意味着什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="66"/>
         <source>What roles do love and affection play in your life?</source>
-        <translation type="unfinished"></translation>
+        <translation>爱情和感情在你的生活中扮演什么角色？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished"></translation>
+        <translation>交替分享你认为伴侣积极特征的东西。总共分享五个项目。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished"></translation>
+        <translation>你的家庭有多亲密和温暖？你觉得你的童年比大多数人都幸福吗？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
         <source>Complete this sentence: “I wish I had someone with whom I could share ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>完成这个句子：“我希望我有一个可以分享的人……”</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你要和你的伴侣成为密友，请分享对他或她来说重要的事情。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation type="unfinished"></translation>
+        <translation>告诉你的伴侣你喜欢他们什么；这次要非常诚实，说一些你可能不会对刚认识的人说的话。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
         <source>Share with your partner an embarrassing moment in your life.</source>
-        <translation type="unfinished"></translation>
+        <translation>与你的伴侣分享你生活中尴尬的时刻。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="76"/>
         <source>When did you last cry in front of another person? By yourself?</source>
-        <translation type="unfinished"></translation>
+        <translation>你最后一次在别人面前哭是什么时候？一个人？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
-        <translation type="unfinished"></translation>
+        <translation>告诉你的伴侣一些你已经喜欢他们的地方。</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果有的话，什么太严肃了，不能开玩笑？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你今晚死了，没有机会和任何人交流，你最后悔没有告诉别人什么？你为什么还没告诉他们？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>你的房子，包含你拥有的一切，着火了。拯救你所爱的人和宠物后，你有时间安全地做最后的冲刺来拯救任何一件物品。会是什么？为什么呢？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="81"/>
         <source>Of all the people in your family, whose death would you find most disturbing? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>在你家里所有的人中，你觉得谁的死最令人不安？为什么？</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished"></translation>
+        <translation>分享一个个人问题，询问你的伴侣如何处理。此外，让你的伴侣向你反映你对你选择的问题的感受。</translation>
     </message>
 </context>
 </TS>

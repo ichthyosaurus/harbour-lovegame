@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugis (Brasil)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="150"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lithuania</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="156"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgaria</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="223"/>
@@ -168,12 +168,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>tampilkan lebih sedikit</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>tampilkan lebih banyak</translation>
     </message>
 </context>
 <context>
@@ -186,32 +186,32 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation>Bagaimana cara bermain</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayo!</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Game ini bertujuan untuk membangun kedekatan dengan orang lain melalui proses berbagi.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anda akan diberikan 36 tugas. Salah satu dari Anda harus membacakan satu tugas dengan lantang, lalu &lt;b&gt;bersama-sama&lt;/b&gt; melakukan apa yang diminta oleh tugasnya, dan dimulai dari orang yang membacakan tugas tersebut.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bacalah setiap pertanyaan secara bergantian dengan pasangan Anda. Jika pertanyaannya ditujukan kepada Anda, berikan jawaban Anda, lalu baru setelah itu pasangan Anda membagikan jawabannya juga kepada Anda. Jika pertanyaan kepada anda adalah tugas, anda harus mengerjakan tugasnya terlebih dahulu, setelah itu barulah pasangan Anda mengerjakannya juga.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Luangkan waktu yang cukup untuk setiap poin, lakukan apa yang diminta dengan saksama dan penuh perhatian dan &lt;b&gt;jangan lewatkan&lt;/b&gt; satu pun poin.</translation>
     </message>
 </context>
 <context>
@@ -227,27 +227,27 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>Donasi melalui Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>Belilah secangkir kopi, sepotong pizza, atau tiket ke teater.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>Terjemahkan di Weblate</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bantu terjemahkan aplikasi ini ke dalam banyak bahasa sebanyak mungkin.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>Kembangkan di Github</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
