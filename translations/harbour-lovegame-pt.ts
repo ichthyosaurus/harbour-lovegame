@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished">Agradecimentos</translation>
+        <translation>Agradecimentos</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished">Um jogo sobre apego.</translation>
+        <translation>Um jogo sobre apego.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
