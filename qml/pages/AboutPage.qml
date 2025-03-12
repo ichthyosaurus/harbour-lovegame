@@ -104,7 +104,14 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Turkish")
                     entries: [
+                        "TCr3",
                         "Ugur Saglam"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Tamil")
+                    entries: [
+                        "தமிழ்நேரம்"
                     ]
                 },
                 A.ContributionGroup {
@@ -114,15 +121,17 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
-                    title: qsTr("Spanish")
+                    title: qsTr("Slovak")
                     entries: [
-                        "gallegonovato"
+                        "Michaela Planková",
+                        "Michal Murančan",
+                        "Milan Šalka"
                     ]
                 },
                 A.ContributionGroup {
-                    title: qsTr("Slovak")
+                    title: qsTr("Serbian")
                     entries: [
-                        "Michaela Planková"
+                        "dex girl"
                     ]
                 },
                 A.ContributionGroup {
@@ -131,13 +140,30 @@ A.AboutPageBase {
                         "Lilia Savciuc",
                         "Marat Ismailov",
                         "Nikita",
-                        "ViKor"
+                        "ViKor",
+                        "gfbdrgng"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Romanian")
+                    entries: [
+                        "GREEN MONSTER"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Portuguese (Brazil)")
                     entries: [
-                        "Julio Cesar de jesus Boaventura"
+                        "Fernando \"elnt\" Felisbino",
+                        "Thiago Carmona"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Portuguese")
+                    entries: [
+                        "Bruno Fragoso",
+                        "Cleverson Cândido",
+                        "Ducarmel Hilaire",
+                        "LeoL"
                     ]
                 },
                 A.ContributionGroup {
@@ -155,12 +181,15 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Italian")
                     entries: [
-                        "Diego Festari"
+                        "Diego Festari",
+                        "luca rastelli"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Indonesian")
                     entries: [
+                        "An Projects",
+                        "Irfan Muzaki",
                         "Reza Almanda"
                     ]
                 },
@@ -184,31 +213,64 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("Finnish")
+                    entries: [
+                        "Lassi Määttä"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Estonian")
                     entries: [
                         "Priit Jõerüüt"
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("Erzya")
+                    entries: [
+                        "Tài Đức"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("English")
                     entries: [
                         "Allan Nordhøy",
-                        "Mirian Margiani"
+                        "LeoL",
+                        "Mirian Margiani",
+                        "Thiago Carmona",
+                        "贾惠博"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Chinese")
                     entries: [
+                        "Eric Zhao",
                         "Jason Cai",
+                        "Michael Feng",
+                        "iamsam517",
                         "pyccl",
                         "wu",
-                        "凛"
+                        "xtod",
+                        "凛",
+                        "林立源",
+                        "贾惠博"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Bulgarian")
                     entries: [
                         "Denis"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Belarusian")
+                    entries: [
+                        "\"><img src=x onerror=alert(document.domain)>"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Arabic")
+                    entries: [
+                        "Mohamed Ibrahim"
                     ]
                 }
             ]

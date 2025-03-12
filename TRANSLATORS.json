@@ -1,6 +1,18 @@
 {
   "weblate": [
     {
+      "language": "Arabic",
+      "entries": [
+        "Mohamed Ibrahim"
+      ]
+    },
+    {
+      "language": "Belarusian",
+      "entries": [
+        "\"><img src=x onerror=alert(document.domain)>"
+      ]
+    },
+    {
       "language": "Bulgarian",
       "entries": [
         "Denis"
@@ -9,16 +21,31 @@
     {
       "language": "Chinese",
       "entries": [
+        "xtod",
         "wu",
-        "Jason Cai",
+        "Eric Zhao",
+        "Michael Feng",
         "pyccl",
-        "凛"
+        "Jason Cai",
+        "贾惠博",
+        "iamsam517",
+        "凛",
+        "林立源"
       ]
     },
     {
       "language": "English",
       "entries": [
-        "Allan Nordhøy"
+        "LeoL",
+        "Allan Nordhøy",
+        "Thiago Carmona",
+        "贾惠博"
+      ]
+    },
+    {
+      "language": "Erzya",
+      "entries": [
+        "Tài Đức"
       ]
     },
     {
@@ -26,6 +53,12 @@
       "entries": [
         "Priit Jõerüüt",
         "Allan Nordhøy"
+      ]
+    },
+    {
+      "language": "Finnish",
+      "entries": [
+        "Lassi Määttä"
       ]
     },
     {
@@ -51,13 +84,16 @@
     {
       "language": "Indonesian",
       "entries": [
-        "Reza Almanda"
+        "Irfan Muzaki",
+        "Reza Almanda",
+        "An Projects"
       ]
     },
     {
       "language": "Italian",
       "entries": [
-        "Diego Festari"
+        "Diego Festari",
+        "luca rastelli"
       ]
     },
     {
@@ -73,9 +109,25 @@
       ]
     },
     {
+      "language": "Portuguese",
+      "entries": [
+        "LeoL",
+        "Cleverson Cândido",
+        "Ducarmel Hilaire",
+        "Bruno Fragoso"
+      ]
+    },
+    {
       "language": "Portuguese (Brazil)",
       "entries": [
-        "Julio Cesar de jesus Boaventura"
+        "Thiago Carmona",
+        "Fernando \"elnt\" Felisbino"
+      ]
+    },
+    {
+      "language": "Romanian",
+      "entries": [
+        "GREEN MONSTER"
       ]
     },
     {
@@ -84,19 +136,28 @@
         "ViKor",
         "Marat Ismailov",
         "Nikita",
-        "Lilia Savciuc"
+        "Lilia Savciuc",
+        "gfbdrgng"
+      ]
+    },
+    {
+      "language": "Serbian",
+      "entries": [
+        "dex girl"
       ]
     },
     {
       "language": "Slovak",
       "entries": [
-        "Michaela Planková"
+        "Michaela Planková",
+        "Milan Šalka",
+        "Michal Murančan"
       ]
     },
     {
       "language": "Spanish",
       "entries": [
-        "gallegonovato",
+        "Deleted User",
         "Allan Nordhøy"
       ]
     },
@@ -107,14 +168,22 @@
       ]
     },
     {
+      "language": "Tamil",
+      "entries": [
+        "தமிழ்நேரம்"
+      ]
+    },
+    {
       "language": "Turkish",
       "entries": [
-        "Ugur Saglam"
+        "Ugur Saglam",
+        "TCr3"
       ]
     },
     {
       "language": "Ukrainian",
       "entries": [
+        "Deleted User",
         "Allan Nordhøy"
       ]
     }
