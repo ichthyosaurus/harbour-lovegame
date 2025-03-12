@@ -32,7 +32,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation>Táto aplikácia je modelovaná podľa Love Game pre Android od Anuraag Yachamaneni.</translation>
+        <translation type="unfinished">Táto aplikácia je modelovaná podľa Love Game pre Android od Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
