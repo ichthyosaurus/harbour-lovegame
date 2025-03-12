@@ -65,87 +65,126 @@
         <translation>turski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="111"/>
+        <location filename="../qml/pages/AboutPage.qml" line="112"/>
+        <source>Tamil</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Swedish</source>
         <translation>švedski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="117"/>
         <source>Spanish</source>
-        <translation>španski</translation>
+        <translation type="vanished">španski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="123"/>
+        <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Slovak</source>
         <translation>slovački</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="129"/>
+        <location filename="../qml/pages/AboutPage.qml" line="132"/>
+        <source>Serbian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Russian</source>
         <translation>ruski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="138"/>
+        <location filename="../qml/pages/AboutPage.qml" line="148"/>
+        <source>Romanian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Portuguese (Brazil)</source>
         <translation>portugalski (brazil)</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="144"/>
+        <location filename="../qml/pages/AboutPage.qml" line="161"/>
+        <source>Portuguese</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="170"/>
         <source>Norwegian Bokmål</source>
         <translation>norveški bokmal</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="150"/>
+        <location filename="../qml/pages/AboutPage.qml" line="176"/>
         <source>Lithuanian</source>
         <translation>litvanski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="156"/>
+        <location filename="../qml/pages/AboutPage.qml" line="182"/>
         <source>Italian</source>
         <translation>italijanski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="162"/>
+        <location filename="../qml/pages/AboutPage.qml" line="189"/>
         <source>Indonesian</source>
         <translation>indonežanski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="168"/>
+        <location filename="../qml/pages/AboutPage.qml" line="197"/>
         <source>Hungarian</source>
         <translation>mađarski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="174"/>
+        <location filename="../qml/pages/AboutPage.qml" line="203"/>
         <source>German</source>
         <translation>nemački</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="181"/>
+        <location filename="../qml/pages/AboutPage.qml" line="210"/>
         <source>French</source>
         <translation>francuski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="187"/>
+        <location filename="../qml/pages/AboutPage.qml" line="216"/>
+        <source>Finnish</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Estonian</source>
         <translation>estonijski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="193"/>
+        <location filename="../qml/pages/AboutPage.qml" line="228"/>
+        <source>Erzya</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="234"/>
         <source>English</source>
         <translation>engleski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="200"/>
+        <location filename="../qml/pages/AboutPage.qml" line="244"/>
         <source>Chinese</source>
         <translation>kineski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="209"/>
+        <location filename="../qml/pages/AboutPage.qml" line="259"/>
         <source>Bulgarian</source>
         <translation>bugarski</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="223"/>
+        <location filename="../qml/pages/AboutPage.qml" line="265"/>
+        <source>Belarusian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="271"/>
+        <source>Arabic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="285"/>
         <source>Allow skipping timers</source>
         <translation>dozvoli tajmere preskakanja</translation>
     </message>
