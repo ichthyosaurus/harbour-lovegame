@@ -6,6 +6,10 @@
 # * date Author's Name <author's email> version-release
 # - Summary of changes
 
+* Wed Mar 12 2025 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.2.1-1
+- Added translations: Portuguese (Brazil), Tamil
+- Updated translations: English, Finnish, Indonesian, Italian, Portuguese, Portuguese (Brazil), Romanian, Russian, Serbian, Slovak, Spanish, Turkish, Ukrainian
+
 * Wed Oct 30 2024 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.2.0-1
 - Updated translations: Bulgarian, Chinese, Estonian, French, Italian, Lithuanian, Portuguese (Brazil), Russian, Slovak, Turkish
 - Fixed missing translations so that all available translations are actually shippped!
