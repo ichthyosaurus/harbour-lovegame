@@ -75,10 +75,6 @@
         <translation>suédois</translation>
     </message>
     <message>
-        <source>Spanish</source>
-        <translation type="vanished">espagnol</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Slovak</source>
         <translation>slovaque</translation>
@@ -351,7 +347,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation>Merci&#x202f;!</translation>
+        <translation>Merci !</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>

@@ -80,10 +80,6 @@
         <translation>Swedish</translation>
     </message>
     <message>
-        <source>Spanish</source>
-        <translation type="vanished">Spanish</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Slovak</source>
         <translation>Slovak</translation>

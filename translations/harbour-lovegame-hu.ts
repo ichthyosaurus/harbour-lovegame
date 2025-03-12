@@ -75,10 +75,6 @@
         <translation>Svéd</translation>
     </message>
     <message>
-        <source>Spanish</source>
-        <translation type="vanished">Spanyol</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Slovak</source>
         <translation>Szlovák</translation>
