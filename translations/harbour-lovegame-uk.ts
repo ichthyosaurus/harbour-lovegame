@@ -67,7 +67,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="112"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Тамільська</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
@@ -82,7 +82,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="132"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Сербська</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
@@ -92,7 +92,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="148"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Румунська</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="161"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Португальська</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="170"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="216"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Фінська</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="228"/>
         <source>Erzya</source>
-        <translation type="unfinished"></translation>
+        <translation>Ерзя</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="234"/>
@@ -172,12 +172,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="265"/>
         <source>Belarusian</source>
-        <translation type="unfinished"></translation>
+        <translation>Білоруська</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="271"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Арабська</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="285"/>
