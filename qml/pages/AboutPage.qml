@@ -102,6 +102,12 @@ A.AboutPageBase {
             title: qsTr("Translations")
             groups: [
                 A.ContributionGroup {
+                    title: qsTr("Ukrainian")
+                    entries: [
+                        "Максим Горпиніч"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Turkish")
                     entries: [
                         "TCr3",
@@ -225,19 +231,20 @@ A.AboutPageBase {
                     ]
                 },
                 A.ContributionGroup {
-                    title: qsTr("Erzya")
-                    entries: [
-                        "Tài Đức"
-                    ]
-                },
-                A.ContributionGroup {
                     title: qsTr("English")
                     entries: [
                         "Allan Nordhøy",
+                        "Dominik",
                         "LeoL",
                         "Mirian Margiani",
                         "Thiago Carmona",
                         "贾惠博"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Czech")
+                    entries: [
+                        "Dominik"
                     ]
                 },
                 A.ContributionGroup {
@@ -253,24 +260,6 @@ A.AboutPageBase {
                         "凛",
                         "林立源",
                         "贾惠博"
-                    ]
-                },
-                A.ContributionGroup {
-                    title: qsTr("Bulgarian")
-                    entries: [
-                        "Denis"
-                    ]
-                },
-                A.ContributionGroup {
-                    title: qsTr("Belarusian")
-                    entries: [
-                        "\"><img src=x onerror=alert(document.domain)>"
-                    ]
-                },
-                A.ContributionGroup {
-                    title: qsTr("Arabic")
-                    entries: [
-                        "Mohamed Ibrahim"
                     ]
                 }
             ]

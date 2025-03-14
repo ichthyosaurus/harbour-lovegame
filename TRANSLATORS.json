@@ -1,28 +1,10 @@
 {
   "weblate": [
     {
-      "language": "Arabic",
-      "entries": [
-        "Mohamed Ibrahim"
-      ]
-    },
-    {
-      "language": "Belarusian",
-      "entries": [
-        "\"><img src=x onerror=alert(document.domain)>"
-      ]
-    },
-    {
-      "language": "Bulgarian",
-      "entries": [
-        "Denis"
-      ]
-    },
-    {
       "language": "Chinese",
       "entries": [
-        "xtod",
         "wu",
+        "xtod",
         "Eric Zhao",
         "Michael Feng",
         "pyccl",
@@ -34,18 +16,19 @@
       ]
     },
     {
-      "language": "English",
+      "language": "Czech",
       "entries": [
-        "LeoL",
-        "Allan Nordhøy",
-        "Thiago Carmona",
-        "贾惠博"
+        "Dominik"
       ]
     },
     {
-      "language": "Erzya",
+      "language": "English",
       "entries": [
-        "Tài Đức"
+        "LeoL",
+        "Dominik",
+        "Thiago Carmona",
+        "贾惠博",
+        "Allan Nordhøy"
       ]
     },
     {
@@ -136,8 +119,8 @@
         "ViKor",
         "Marat Ismailov",
         "Nikita",
-        "Lilia Savciuc",
-        "gfbdrgng"
+        "gfbdrgng",
+        "Lilia Savciuc"
       ]
     },
     {
@@ -184,6 +167,7 @@
       "language": "Ukrainian",
       "entries": [
         "Deleted User",
+        "Максим Горпиніч",
         "Allan Nordhøy"
       ]
     }
