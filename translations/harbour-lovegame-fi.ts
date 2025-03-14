@@ -170,10 +170,6 @@
         <translation>Kiina</translation>
     </message>
     <message>
-        <source>Bulgarian</source>
-        <translation type="vanished">Bulgarian kieli</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
         <source>Allow skipping timers</source>
         <translation>Mahdollista ajastinten ohitus</translation>

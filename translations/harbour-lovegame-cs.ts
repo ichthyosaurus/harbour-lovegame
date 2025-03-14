@@ -155,10 +155,6 @@
         <translation>Estonština</translation>
     </message>
     <message>
-        <source>Erzya</source>
-        <translation type="vanished">Erzja</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="234"/>
         <source>English</source>
         <translation>Angličtina</translation>
@@ -172,18 +168,6 @@
         <location filename="../qml/pages/AboutPage.qml" line="251"/>
         <source>Chinese</source>
         <translation>Čínština</translation>
-    </message>
-    <message>
-        <source>Bulgarian</source>
-        <translation type="vanished">Bulharština</translation>
-    </message>
-    <message>
-        <source>Belarusian</source>
-        <translation type="vanished">Běloruština</translation>
-    </message>
-    <message>
-        <source>Arabic</source>
-        <translation type="vanished">Arabština</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>

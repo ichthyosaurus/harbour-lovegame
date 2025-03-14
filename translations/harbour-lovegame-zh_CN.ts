@@ -170,10 +170,6 @@
         <translation>汉语</translation>
     </message>
     <message>
-        <source>Bulgarian</source>
-        <translation type="vanished">保加利亚语</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
         <source>Allow skipping timers</source>
         <translation>允许跳过计时器测试</translation>

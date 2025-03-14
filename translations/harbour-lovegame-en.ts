@@ -160,10 +160,6 @@
         <translation>Estonian</translation>
     </message>
     <message>
-        <source>Erzya</source>
-        <translation type="vanished">Erzya</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="234"/>
         <source>English</source>
         <translation>English</translation>
@@ -177,18 +173,6 @@
         <location filename="../qml/pages/AboutPage.qml" line="251"/>
         <source>Chinese</source>
         <translation>Chinese</translation>
-    </message>
-    <message>
-        <source>Bulgarian</source>
-        <translation type="vanished">Bulgarian</translation>
-    </message>
-    <message>
-        <source>Belarusian</source>
-        <translation type="vanished">Belarusian</translation>
-    </message>
-    <message>
-        <source>Arabic</source>
-        <translation type="vanished">Arabic</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>

@@ -170,10 +170,6 @@
         <translation>சீன</translation>
     </message>
     <message>
-        <source>Bulgarian</source>
-        <translation type="vanished">பல்கேரியன்</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
         <source>Allow skipping timers</source>
         <translation>டைமர்களைத் தவிர்க்க அனுமதிக்கவும்</translation>

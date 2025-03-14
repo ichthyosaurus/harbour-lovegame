@@ -170,10 +170,6 @@
         <translation>Cinese</translation>
     </message>
     <message>
-        <source>Bulgarian</source>
-        <translation type="vanished">Bulgaro</translation>
-    </message>
-    <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
         <source>Allow skipping timers</source>
         <translation>Consenti di saltare i timer</translation>
