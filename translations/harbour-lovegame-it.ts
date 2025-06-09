@@ -292,7 +292,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>Sviluppo software libero perché sono convinto che sia la cosa etica da fare, ed è un hobby divertente. Tuttavia, sviluppare software richiede molto tempo e impegno. Come un Sailfish e la vita in generale costano soldi, ho bisogno del vostro supporto per poter dedicare tempo a progetti non retribuiti come questo.</translation>
+        <translation>Sviluppo software libero perché sono convinto che sia la cosa etica da fare, ed è un hobby divertente. Tuttavia, sviluppare software richiede molto tempo e impegno. Come Sailfish e la vita in generale costano soldi, ho bisogno del vostro supporto per poter dedicare tempo a progetti non retribuiti come questo.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
@@ -492,7 +492,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="32"/>
         <source>Open externally</source>
-        <translation>Aperto esternamente</translation>
+        <translation>Apri esternamente</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="36"/>
@@ -642,7 +642,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation>Quale sarebbe un &quot;giorno perfetto&quot; per te?</translation>
+        <translation>Quale sarebbe un “giorno perfetto” per te?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="49"/>
