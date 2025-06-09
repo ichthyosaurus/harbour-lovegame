@@ -221,7 +221,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation>Это увлекательная игра о том, как сблизиться с близким нам человеком, осуществляя обмен опытом и эмоциями.</translation>
+        <translation>Эта игра о том, как сблизиться с другим человеком с помощью обмена опытом и эмоциями.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
@@ -262,7 +262,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Перевести на Weblate</translation>
+        <translation>Помочь с переводом на Weblate</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
