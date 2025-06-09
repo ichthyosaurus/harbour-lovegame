@@ -6,93 +6,93 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الشكر والتقدير</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">لعبة حول الترابط.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الخلفية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Article (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">المقال (PDF)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم نسخ جميع الأسئلة والتعليمات من Aron et al. (1997: 374f) وتم تعديلها قليلاً فقط لتناسب هذه اللعبة.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تم تصميم هذا التطبيق على غرار لعبة Love Game لنظام Android بواسطة Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">وتتبع اللعبة آرون وآخرون (1997، PSPB 23/4).</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تطوير</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">برمجة</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="94"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">تصميم الأيقونات</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="102"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الترجمات</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">الأوكرانية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>التركية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>التاميلية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>السويدية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="130"/>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>السلوفاكية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>الصربية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>الروسية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
