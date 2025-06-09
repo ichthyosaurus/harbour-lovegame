@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrán</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerb</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
@@ -97,27 +97,27 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Román</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugál (Brazil)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugál</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="176"/>
         <source>Norwegian Bokmål</source>
-        <translation type="unfinished"></translation>
+        <translation>Norvég Bokmål</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="182"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Litván</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="188"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finn</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="228"/>
@@ -162,12 +162,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Cseh</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="251"/>
         <source>Chinese</source>
-        <translation>kínai</translation>
+        <translation>Kínai</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
@@ -257,12 +257,12 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Fizess egy csésze kávé, egy pizzaszelet, vagy egy színházjegy árát.</translation>
+        <translation>Fizessd egy csésze kávé, egy szelet pizza, vagy egy színházjegy árát.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation>Fordítás a Weblate-en</translation>
+        <translation>Fordítás Weblate-en</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
@@ -272,7 +272,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation>Fejlesztés a GitHubon</translation>
+        <translation>Fejlesztés a Github-on</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
