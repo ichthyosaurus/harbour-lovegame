@@ -11,33 +11,33 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished"></translation>
+        <translation>Un jeu sur les liens affectifs.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contexte</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Article (PDF)</source>
-        <translation type="unfinished"></translation>
+        <translation>Article (PDF)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les questions et instructions sont tirées de Aron et al. (1997&#xa0;: 374f) et n&apos;ont été que légèrement adaptées à ce jeu.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette application s&apos;inspire de Love Game pour Android par Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation>Le jeu suit Aron et al. (1997, PSPB 23/4).</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
@@ -52,7 +52,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="94"/>
         <source>Icon Design</source>
-        <translation>Design de l&apos;icône</translation>
+        <translation>Conception d&apos;icône</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="102"/>
@@ -62,112 +62,112 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrainien</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Turkish</source>
-        <translation>turc</translation>
+        <translation>Turc</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Swedish</source>
-        <translation>suédois</translation>
+        <translation>Suédois</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="130"/>
         <source>Slovak</source>
-        <translation>slovaque</translation>
+        <translation>Slovaque</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbe</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
         <source>Russian</source>
-        <translation>russe</translation>
+        <translation>Russe</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Roumain</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugais (Brésil)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugais</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="176"/>
         <source>Norwegian Bokmål</source>
-        <translation>norvégien (Bokmål)</translation>
+        <translation>Norvégien (Bokmål)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="182"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lituanien</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="188"/>
         <source>Italian</source>
-        <translation>italien</translation>
+        <translation>Italien</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="195"/>
         <source>Indonesian</source>
-        <translation>indonésien</translation>
+        <translation>Indonésien</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="203"/>
         <source>Hungarian</source>
-        <translation>hongrois</translation>
+        <translation>Hongrois</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>German</source>
-        <translation>allemand</translation>
+        <translation>Allemand</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="216"/>
         <source>French</source>
-        <translation>français</translation>
+        <translation>Français</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Finlandais</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="228"/>
         <source>Estonian</source>
-        <translation>estonien</translation>
+        <translation>Estonien</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="234"/>
         <source>English</source>
-        <translation>anglais</translation>
+        <translation>Anglais</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tchèque</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="251"/>
         <source>Chinese</source>
-        <translation>chinois</translation>
+        <translation>Chinois</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
