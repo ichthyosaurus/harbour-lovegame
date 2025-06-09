@@ -97,7 +97,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Roemeen</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
