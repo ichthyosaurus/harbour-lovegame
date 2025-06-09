@@ -221,7 +221,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation>Эта игра о том, как сблизиться с другим человеком с помощью обмена опытом и эмоциями</translation>
+        <translation>Это увлекательная игра о том, как сблизиться с близким нам человеком, осуществляя обмен опытом и эмоциями.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
