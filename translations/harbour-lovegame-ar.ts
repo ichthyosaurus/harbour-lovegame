@@ -6,63 +6,63 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished">الشكر والتقدير</translation>
+        <translation>الشكر والتقدير</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished">لعبة حول الترابط.</translation>
+        <translation>لعبة حول الترابط.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished">الخلفية</translation>
+        <translation>الخلفية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Article (PDF)</source>
-        <translation type="unfinished">المقال (PDF)</translation>
+        <translation>المقال (PDF)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished">تم نسخ جميع الأسئلة والتعليمات من Aron et al. (1997: 374f) وتم تعديلها قليلاً فقط لتناسب هذه اللعبة.</translation>
+        <translation>تم نسخ جميع الأسئلة والتعليمات من Aron et al. (1997: 374f) وتم تعديلها قليلاً فقط لتناسب هذه اللعبة.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished">تم تصميم هذا التطبيق على غرار لعبة Love Game لنظام Android بواسطة Anuraag Yachamaneni.</translation>
+        <translation>تم تصميم هذا التطبيق على غرار لعبة Love Game لنظام Android بواسطة Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished">وتتبع اللعبة آرون وآخرون (1997، PSPB 23/4).</translation>
+        <translation>وتتبع اللعبة آرون وآخرون (1997، PSPB 23/4).</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>Development</source>
-        <translation type="unfinished">تطوير</translation>
+        <translation>تطوير</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <source>Programming</source>
-        <translation type="unfinished">برمجة</translation>
+        <translation>برمجة</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="94"/>
         <source>Icon Design</source>
-        <translation type="unfinished">تصميم الأيقونات</translation>
+        <translation>تصميم الأيقونات</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="102"/>
         <source>Translations</source>
-        <translation type="unfinished">الترجمات</translation>
+        <translation>الترجمات</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Ukrainian</source>
-        <translation type="unfinished">الأوكرانية</translation>
+        <translation>الأوكرانية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -97,77 +97,77 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>الرومانية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
         <source>Portuguese (Brazil)</source>
-        <translation type="unfinished"></translation>
+        <translation>البرتغالية (البرازيل)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>البرتغالية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="176"/>
         <source>Norwegian Bokmål</source>
-        <translation type="unfinished"></translation>
+        <translation>النرويجية (بوكمول)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="182"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>الليتوانية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="188"/>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>الايطالية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="195"/>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>الاندونيسية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="203"/>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>المجرية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>الالمانية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="216"/>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>الفرنسية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>الفنلندية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="228"/>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستونية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="234"/>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>الانجليزية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>التشيكية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="251"/>
         <source>Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>الصينية</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>Text of the 36 questions</source>
-        <translation type="unfinished"></translation>
+        <translation>نص الاسئلة ال36</translation>
     </message>
 </context>
 <context>
@@ -185,7 +185,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="11"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>رجاء خذ لحظة لتفكر اذا ما كنت تستطيع المساهمة في هذا المشروع بطريقة او باخرى.</translation>
     </message>
 </context>
 <context>
@@ -193,12 +193,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهر اقل</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="53"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهر المزيد</translation>
     </message>
 </context>
 <context>
@@ -206,37 +206,37 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="41"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>عن</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation>كيف تلعب</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>هيا نذهب!</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذه اللعبة عن التقرب الى شخص اخر عن طريق النشر</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>سوف يتم اعطائكم 36 مهمة. احد منكم يجب ان يقرء مهمة بصوت عالي, ثم انتما الاثنان سوف تفعلان ماذا تقول, سوف يفعل المهمة اولا من قرء المهمة بصوت عالي.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>بدلا من قراءة كل سؤال لشريكك. اذا تم سؤالك سؤالا, شارك اجابتك, ثم دعه يشارك اجابته معك. ان كانت مهمة, افعلها اولا, ثم دع شريكك يفعلها.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation type="unfinished"></translation>
+        <translation>خذ بضعا من الوقت في كل غرض, افعل ما يقول كاملا ومتاكاملا - لكن لا تتخطى اي غرض.</translation>
     </message>
 </context>
 <context>
@@ -252,27 +252,27 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>تبرع لنا على Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>ادفع كمية كوب قهوة, شريحة بيتزا, او حتى تذكرة الى المسرح.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>ترجم على Weblate</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>ساعد في ترجمة هذا التطبيق الى اكبر عدد ممكن من اللغات.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>طور على Github</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
@@ -282,32 +282,32 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>لماذا يجب ان تهتم؟</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا المشروع تم بحب وعاطفة من مطور واحد قي وقت فراغه, ويتم تقديمه اليك مجانا.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>انا اطور نظام مجاني لانني مقتنع ان هذا الفعل اخلاقي - وهي هواية ممتعة. على اية حال, تطوير نظام مجاني ياخذ الكثير من الوقت و المجهود. كSailfish واعيش على مصاريف الدخل العام, انا احتاج مساعدتك كي استطيع قضاء الوقت على مشاريع لا ربحية كهذه.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>لماذا اتبرع؟</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>شركة &quot;Jolla&quot; رفعت الاسعار وهي تحاول اجبار المبرمجين (الذين يعملوان مجانا) الى دفع الفواتير لSailfish.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>ان كنت تستطيع تسديدها, التبرع هو اسهل وسيلة لضمان انني يمككني الاستمرار في العمل على تطبيقات لSailfish. اي كمية سيتم تقديرها, سواء كانت كوب قهوة, شريحة بيتزا, او اكثر.</translation>
     </message>
 </context>
 <context>
@@ -315,19 +315,19 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="15"/>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>اظهر التفاصيل</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="23"/>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>المساهمين</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="101"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="33"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>تطوير</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="39"/>
@@ -337,13 +337,13 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>شكرا لك!</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>تفاصيل</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="115"/>
@@ -351,7 +351,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="25"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="50"/>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>كود المصدر</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="106"/>
@@ -359,27 +359,27 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="47"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>الصفحة الرئيسية</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="15"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>رابط خارجي</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="32"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>افتح في المتصفح</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>تم النسخ الى الحافظة: %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>انسخ الى الحافظة</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="28"/>
@@ -389,10 +389,10 @@
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>صفر</numerusform>
+            <numerusform>واحد</numerusform>
+            <numerusform>اثنين</numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -401,17 +401,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="44"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>ملاحظة: يرجى فحص كود المصدر لمعلومات اكثر دقة.</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="56"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>عن</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="85"/>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>النسخة %1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="104"/>
@@ -421,7 +421,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="112"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>الترجمات</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="124"/>
@@ -510,7 +510,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>انسخ الى الحافظة</translation>
     </message>
 </context>
 <context>
@@ -519,7 +519,7 @@
         <location filename="../qml/pages/QuestionPage.qml" line="129"/>
         <source>Chapter</source>
         <comment>as in &apos;1st Chapter&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>فصل</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="143"/>
