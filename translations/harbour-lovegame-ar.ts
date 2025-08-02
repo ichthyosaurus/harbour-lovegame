@@ -614,7 +614,7 @@
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
         <source>II.</source>
         <comment>as in &quot;2nd chapter&quot;</comment>
-        <translation type="unfinished"></translation>
+        <translation>اهلا كيف حالك</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="70"/>
@@ -675,7 +675,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation type="unfinished"></translation>
+        <translation>hi</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="54"/>
