@@ -216,7 +216,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished">In diesem Spiel geht es darum, einer anderen Person, durch das teilen persönlicher Erfahrungen näher zu kommen.</translation>
+        <translation>In diesem Spiel geht es darum, einer anderen Person, durch das teilen persönlicher Erfahrungen näher zu kommen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished">Wechselt euch ab, indem ihr jeweils die Fragen eurem Partner vorlest. Wenn eine Frage gestellt wird, teilen Sie zuerst ihre Antwort, und lass dann ihr Partner seine Antwort mit dir teilen. Wenn es eine Aufgabe ist, machen Sie zuerst selbst, und lassen dann ihren Partner sie ausführen.</translation>
+        <translation>Wechselt euch ab, indem ihr jeweils die Fragen eurem Partner vorlest. Wenn eine Frage gestellt wird, teilen Sie zuerst ihre Antwort, und lass dann ihr Partner seine Antwort mit dir teilen. Wenn es eine Aufgabe ist, machen Sie zuerst selbst, und lassen dann ihren Partner sie ausführen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
@@ -257,7 +257,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished">Spende einen Betrag für eine Tasse Kaffee, ein Stück Pizza oder einen Theaterbesuch.</translation>
+        <translation>Spende einen Betrag für eine Tasse Kaffee, ein Stück Pizza oder einen Theaterbesuch.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
@@ -277,7 +277,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished">Unterstütze die Instandhaltung, das Packaging, beim Programmieren oder schreibe Fehlerberichte.</translation>
+        <translation>Unterstütze die Instandhaltung, das Packaging, beim Programmieren oder schreibe Fehlerberichte.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
@@ -379,7 +379,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished">Kopiere in die Zwischenablage</translation>
+        <translation>Kopiere in die Zwischenablage</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="28"/>
@@ -586,7 +586,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation type="unfinished">Wären Sie gerne berühmt? In welcher Art und Weise?</translation>
+        <translation>Wären Sie gerne berühmt? In welcher Art und Weise?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
@@ -631,12 +631,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation type="unfinished">Nehmen Sie sich vier Minuten Zeit und erzähle ihrem Partner, ihre Lebensgeschichte so detailliert wie möglich.</translation>
+        <translation>Nehmen Sie sich vier Minuten Zeit und erzähle ihrem Partner, ihre Lebensgeschichte so detailliert wie möglich.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished">Wenn Sie morgen aufwachen und eine beliebige Eigenschaft oder Fähigkeit bekommen hätten, welche wäre das?</translation>
+        <translation>Wenn Sie morgen aufwachen und eine beliebige Eigenschaft oder Fähigkeit bekommen hätten, welche wäre das?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="57"/>
