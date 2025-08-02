@@ -11,28 +11,28 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation>一个关于结合的游戏。</translation>
+        <translation>一个关于感情纽带的游戏。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation>背景测试</translation>
+        <translation>背景</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
         <source>Article (PDF)</source>
-        <translation>文章（PDF）测试</translation>
+        <translation>文章（PDF）</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation>所有问题和说明均抄袭自阿隆等人（1997:374f），并仅对本游戏进行了轻微改编。</translation>
+        <translation>所有问题和说明均借鉴自阿隆等人（1997:374f），并仅对本游戏进行了轻微改编。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation>这个应用程序是仿照Anuraag Yachamaneni的Android爱情游戏制作的。</translation>
+        <translation>这个应用程序是仿照 Anuraag Yachamaneni 的 Android 爱情游戏制作的。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>乌克兰语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>泰米尔语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>塞尔维亚语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>罗马尼亚语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>葡萄牙语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="176"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>芬兰语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="228"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>捷克语</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="251"/>
@@ -172,12 +172,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
         <source>Allow skipping timers</source>
-        <translation>允许跳过计时器测试</translation>
+        <translation>允许跳过计时器</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>Text of the 36 questions</source>
-        <translation>36个问题的正文测试</translation>
+        <translation>36个问题的文本</translation>
     </message>
 </context>
 <context>
@@ -277,22 +277,22 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>以帮忙日常维护、打包应用、敲一下代码，或是提供宝贵的程序错误报告来表态支持这应用程序吧。</translation>
+        <translation>以帮忙日常维护、打包应用、敲一下代码，或是提供宝贵的程序错误报告来支持这个应用程序吧。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>为啥您要关注这些活？</translation>
+        <translation>为啥您要关注这些？</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation>这专案是构建和存活于一个普通程序员在闲暇时的爱与热情之上的；我也把它免费提供给您。</translation>
+        <translation>这个项目是构建和存活于一个普通程序员在闲暇时的爱与热情之上的；我也把它免费提供给您。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation>我在开发自由软件，因为我觉得这是我的本分—而它又是一项趣味的兴趣。但是，开发软件占用了我很多很多时间和精力。由于Salifish和我基本生活日常都需要金钱，我亟须你们的支持，才能有能力把时间花在这种非牟利的专案上。</translation>
+        <translation>我在开发自由软件，因为我觉得这是道德的事情 — 而它又是一项趣味的兴趣。但是，开发软件占用了我的很多很多时间和精力。由于 Salifish 和我基本日常生活都需要金钱，我需要你们的支持，才能有能力把时间花在这种非盈利的项目上。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
@@ -302,12 +302,12 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>卓拉 (Jolla) 提高了其价格，而它也试图强迫为自由工作的程序员付费使用Sailfish。</translation>
+        <translation>卓拉 (Jolla) 提高了其价格，而它也试图强迫为自由工作的程序员付费使用 Sailfish。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation>如果您条件可以，捐款无疑是最简单的方法来确保我可以有能力继续为Sailfish上的应用程式工作。不论大小我都心怀感恩；无论一杯咖啡、一片披萨、等等，的价钱。</translation>
+        <translation>如果您条件可以，捐款无疑是最简单的方法来确保我可以有能力继续为 Sailfish 上的应用程序工作。不论大小我都心怀感恩；无论一杯咖啡、一片披萨、等等，的价钱。</translation>
     </message>
 </context>
 <context>
@@ -315,12 +315,12 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="15"/>
         <source>show details</source>
-        <translation>显示日志</translation>
+        <translation>显示细节</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="23"/>
         <source>Contributors</source>
-        <translation>贡献</translation>
+        <translation>贡献者</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="101"/>
@@ -343,7 +343,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>Details</source>
-        <translation>日志</translation>
+        <translation>关于</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="115"/>
@@ -374,7 +374,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation>复制到剪贴板：%1</translation>
+        <translation>已复制到剪贴板：%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
@@ -467,7 +467,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation>你可以通过捐款来支持这个项目，或者通过使用任何这些服务进行捐赠。</translation>
+        <translation>你可以通过贡献来支持这个项目，或者通过使用任何这些服务进行捐赠。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="9"/>
@@ -495,7 +495,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="36"/>
         <source>Copied to clipboard: %1</source>
-        <translation>复制到剪贴板：%1</translation>
+        <translation>已复制到剪贴板：%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/private/LinkHandler/private/ExternalUrlPage.qml" line="41"/>
@@ -550,7 +550,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="10"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation>感谢您使用鄙人鄙应用！也许，您可以放过来反哺（贡献）我这应用？</translation>
+        <translation>感谢您使用我的应用！也许，您可以放过来反哺（贡献）我这应用？</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="11"/>
@@ -730,7 +730,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
         <source>Complete this sentence: “I wish I had someone with whom I could share ...”</source>
-        <translation>完成这个句子：“我希望我有一个可以分享的人……”</translation>
+        <translation>完成这个句子：“我希望我有一个可以与他分享……的人”</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
