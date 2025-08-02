@@ -27,7 +27,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation>Todas as questões e instruções são copiadas de Aron et al. (1997: 374f) e só foram um pouco adaptadas para este jogo.</translation>
+        <translation>Todas as perguntas e instruções foram copiadas de Aron et al. (1997: 374f) e foram apenas ligeiramente adaptadas para este jogo.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
