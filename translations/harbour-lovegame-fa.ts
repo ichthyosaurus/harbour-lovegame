@@ -52,7 +52,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="94"/>
         <source>Icon Design</source>
-        <translation>طراحی آیکون ها</translation>
+        <translation type="unfinished">طراحی آیکون</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="102"/>
