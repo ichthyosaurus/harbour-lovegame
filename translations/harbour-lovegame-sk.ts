@@ -32,7 +32,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished">Táto aplikácia je modelovaná podľa Love Game pre Android od Anuraag Yachamaneni.</translation>
+        <translation>Táto aplikácia je modelovaná podľa Love Game pre Android od Anuraag Yachamaneni.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrajinčina</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamilčina</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="138"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>Srbština</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="144"/>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumunčina</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugalština</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="176"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Fínština</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="228"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="245"/>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Čestina</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="251"/>
