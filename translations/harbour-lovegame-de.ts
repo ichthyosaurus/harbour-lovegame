@@ -11,7 +11,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation>Ein Spiel für emotionale Verbundenheit.</translation>
+        <translation>Ein Spiel übers Zusammenkommen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
@@ -32,7 +32,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation>Alle Fragen und Anweisungen wurden von Aron et al. (1997: 374f) übernommen und teilweise für dieses Spiel leicht angepasst.</translation>
+        <translation>Alle Fragen und Anweisungen wurden von Aron et al (1997: 374f) übernommen und teilweise für dieses Spiel angepasst.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
@@ -42,7 +42,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation>Das Spiel baut auf dem Artikel von Aron et al. (1997, PSPB 23/4) auf.</translation>
+        <translation>Das Spiel baut auf Aron et al. (1997, PSPB 23/4).</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
@@ -77,7 +77,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Tamil</source>
-        <translation>Tamilisch</translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
@@ -107,12 +107,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
         <source>Portuguese (Brazil)</source>
-        <translation>Portugisisch (Brasilien)</translation>
+        <translation>Portugiesisch (Brasilien)</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Portuguese</source>
-        <translation>Portugisisch</translation>
+        <translation>Portugiesisch</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="176"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="274"/>
         <source>Allow skipping timers</source>
-        <translation>Timer überspringen</translation>
+        <translation>Erlaube überspringen von Timern</translation>
     </message>
 </context>
 <context>
@@ -216,7 +216,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation>In diesem Spiel geht es darum, einer anderen Person durch das Teilen persönlicher Erfahrungen näher zu kommen.</translation>
+        <translation>In diesem Spiel geht es darum, einer anderen Person, durch das teilen persönlicher Erfahrungen näher zu kommen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
@@ -226,7 +226,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation>Wechseln Sie sich damit ab, Ihrem Gegenüber jede Frage vorzulesen: Wenn es eine Frage ist, beantworten Sie sie beide und wenn es eine Aufgabe ist, führen Sie sie beide aus.</translation>
+        <translation>Wechselt euch ab, indem ihr jeweils die Fragen eurem Partner vorlest. Wenn eine Frage gestellt wird, teilen Sie zuerst ihre Antwort, und lass dann ihr Partner seine Antwort mit dir teilen. Wenn es eine Aufgabe ist, machen Sie zuerst selbst, und lassen dann ihren Partner sie ausführen.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
@@ -257,7 +257,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation>Spende den Betrag für eine Tasse Kaffee, ein Stück Pizza oder einen Theaterbesuch.</translation>
+        <translation>Spende einen Betrag für eine Tasse Kaffee, ein Stück Pizza oder einen Theaterbesuch.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
@@ -277,12 +277,12 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation>Unterstütze die Verwaltung, das Packaging, beim Programmieren oder schreibe Fehlerberichte.</translation>
+        <translation>Unterstütze die Instandhaltung, das Packaging, beim Programmieren oder schreibe Fehlerberichte.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation>Warum betrifft dich das?</translation>
+        <translation>Warum sollte Sie das interessieren ?</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
@@ -302,7 +302,7 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation>Jolla plant Preiserhöhungen und versucht Entwickler (die gratis arbeiten) auch noch zu zwingen, Sailfish zu mieten.</translation>
+        <translation>Jolla erhöht die Preise und versucht Entwickler (die gratis arbeiten) dazu zu zwingen, Sailfish zu mieten.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
@@ -379,7 +379,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/ExternalUrlPage.qml" line="41"/>
         <source>Copy to clipboard</source>
-        <translation>In die Zwischenablage kopieren</translation>
+        <translation>Kopiere in die Zwischenablage</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="28"/>
@@ -581,12 +581,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation>Wen würden Sie wählen, wenn Sie mit einer beliebigen Person ein Abendessen geniessen dürften?</translation>
+        <translation>Wenn Sie irgendjemanden auf der Welt aussuchen könnten – wen würdest Sie gerne als Gast zum Abendessen einladen?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation>Wären Sie gerne berühmt? In welcher Weise?</translation>
+        <translation>Wären Sie gerne berühmt? In welcher Art und Weise?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="47"/>
@@ -621,7 +621,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation>Wofür in Ihrem Leben sind Sie am dankbarsten?</translation>
+        <translation>Wofür in ihrem Leben sind Sie am dankbarsten?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="54"/>
@@ -631,12 +631,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation>Nehmen Sie sich vier Minuten Zeit und erzählen Sie Ihrem Gegenüber Ihre Lebensgeschichte so detailliert wie möglich.</translation>
+        <translation>Nehmen Sie sich vier Minuten Zeit und erzähle ihrem Partner, ihre Lebensgeschichte so detailliert wie möglich.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation>Was würden Sie wählen, wenn Sie bis morgen über Nacht eine einzige Eigenschaft oder Fähigkeit erlangen könnten?</translation>
+        <translation>Wenn Sie morgen aufwachen und eine beliebige Eigenschaft oder Fähigkeit bekommen hätten, welche wäre das?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="57"/>

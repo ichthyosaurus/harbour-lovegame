@@ -6,12 +6,12 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation>A game about bonding.</translation>
+        <translation type="unfinished">بازی درمورد bonding</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>Text of the 36 questions</source>
-        <translation>Text of the 36 questions</translation>
+        <translation>متن 36سوال</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>

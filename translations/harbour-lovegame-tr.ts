@@ -216,7 +216,7 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation>Let&apos;s go!</translation>
+        <translation>Hadi başlayalım!</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
@@ -615,7 +615,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation>Her biriniz üç gerçek &quot;biz&quot; ifadesi yapın. Örneğin, &quot;İkimiz de bu odadayız ve ... hissediyoruz&quot;.</translation>
+        <translation>Her biriniz için üç doğru “biz” cümlesi yapın. Örneğin, “İkimiz de bu odadayız ve ... hissediyoruz.”</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
