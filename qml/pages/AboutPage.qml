@@ -102,6 +102,12 @@ A.AboutPageBase {
             title: qsTr("Translations")
             groups: [
                 A.ContributionGroup {
+                    title: qsTr("Uyghur")
+                    entries: [
+                        "Ahmatjan"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Ukrainian")
                     entries: [
                         "Максим Горпиніч"
@@ -110,7 +116,9 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Turkish")
                     entries: [
+                        "Sasi Ba",
                         "TCr3",
+                        "Turker",
                         "Ugur Saglam"
                     ]
                 },
@@ -123,7 +131,15 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Swedish")
                     entries: [
-                        "Allan Nordhøy"
+                        "Allan Nordhøy",
+                        "Kristoffer Grundström"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Spanish")
+                    entries: [
+                        "Francisco Serrador",
+                        "Sofia"
                     ]
                 },
                 A.ContributionGroup {
@@ -144,8 +160,10 @@ A.AboutPageBase {
                     title: qsTr("Russian")
                     entries: [
                         "Lilia Savciuc",
+                        "Maksim_220 Кабанов",
                         "Marat Ismailov",
                         "Nikita",
+                        "Romeostar",
                         "ViKor",
                         "gfbdrgng"
                     ]
@@ -169,13 +187,34 @@ A.AboutPageBase {
                         "Bruno Fragoso",
                         "Cleverson Cândido",
                         "Ducarmel Hilaire",
-                        "LeoL"
+                        "LeoL",
+                        "Lourenço Martins",
+                        "ssantos"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Polish")
+                    entries: [
+                        "Artur T Z"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Persian")
+                    entries: [
+                        "Ali Mohemmi",
+                        "Ramineezaei"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Norwegian Bokmål")
                     entries: [
                         "Allan Nordhøy"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Malay")
+                    entries: [
+                        "LIBI BEWIJSSHODAA"
                     ]
                 },
                 A.ContributionGroup {
@@ -188,6 +227,8 @@ A.AboutPageBase {
                     title: qsTr("Italian")
                     entries: [
                         "Diego Festari",
+                        "Laurent FAVOLE",
+                        "Victor Ania",
                         "luca rastelli"
                     ]
                 },
@@ -195,6 +236,7 @@ A.AboutPageBase {
                     title: qsTr("Indonesian")
                     entries: [
                         "An Projects",
+                        "Arvin Noer",
                         "Irfan Muzaki",
                         "Reza Almanda"
                     ]
@@ -202,25 +244,39 @@ A.AboutPageBase {
                 A.ContributionGroup {
                     title: qsTr("Hungarian")
                     entries: [
-                        "Sz. G."
+                        "Sz. G.",
+                        "WMatheist"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Greek")
+                    entries: [
+                        "Jim Spentzos"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("German")
                     entries: [
+                        "7stain",
                         "Mirian Margiani",
-                        "Natalia N"
+                        "Natalia N",
+                        "Nico",
+                        "kimoo-san"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("French")
                     entries: [
-                        "Adi"
+                        "Adi",
+                        "Biesse D. Soura",
+                        "Laurent FAVOLE",
+                        "Valyyme"
                     ]
                 },
                 A.ContributionGroup {
                     title: qsTr("Finnish")
                     entries: [
+                        "Joona Nousiainen",
                         "Lassi Määttä"
                     ]
                 },
@@ -237,14 +293,24 @@ A.AboutPageBase {
                         "Dominik",
                         "LeoL",
                         "Mirian Margiani",
+                        "Ramineezaei",
                         "Thiago Carmona",
                         "贾惠博"
                     ]
                 },
                 A.ContributionGroup {
+                    title: qsTr("Dutch")
+                    entries: [
+                        "Bharat Madho (Bharat)",
+                        "Mirthe Winter",
+                        "Vincmc"
+                    ]
+                },
+                A.ContributionGroup {
                     title: qsTr("Czech")
                     entries: [
-                        "Dominik"
+                        "Dominik",
+                        "Ramineezaei"
                     ]
                 },
                 A.ContributionGroup {
@@ -252,6 +318,7 @@ A.AboutPageBase {
                     entries: [
                         "Eric Zhao",
                         "Jason Cai",
+                        "John Zhou (johnzhou721)",
                         "Michael Feng",
                         "iamsam517",
                         "pyccl",
@@ -260,6 +327,16 @@ A.AboutPageBase {
                         "凛",
                         "林立源",
                         "贾惠博"
+                    ]
+                },
+                A.ContributionGroup {
+                    title: qsTr("Arabic")
+                    entries: [
+                        "Ali",
+                        "Moayad Ibrahim",
+                        "edwardo culen",
+                        "fnaf wcmec",
+                        "naw9af8"
                     ]
                 }
             ]
