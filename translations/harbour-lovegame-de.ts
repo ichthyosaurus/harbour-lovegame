@@ -67,7 +67,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>Uiguren</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation>Persisch</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
@@ -142,7 +142,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malaiisch</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="221"/>
@@ -212,7 +212,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="333"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabisch</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="351"/>
