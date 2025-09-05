@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>ئۇيغۇرچە</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
