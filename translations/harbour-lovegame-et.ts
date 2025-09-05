@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>uiguuri keel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation>pärsia keel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>malai keel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="221"/>
@@ -207,7 +207,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="333"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>araabia keel</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="351"/>
@@ -614,12 +614,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui sul oleks valik kelle iganes vahel üle maailma, siis kelle kutsuksid õhtusöögile külaliseks?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui sa ärkaksid homme, ja sulle oleks lisandunud üks uus omadus või oskus, siis mis see oleks?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
@@ -727,17 +727,17 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="61"/>
         <source>What do you value most in a friendship?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida sa hindad sõpruse juures kõige rohkem?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="62"/>
         <source>What is your most treasured memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mis on sinu kõige kallim mälestus?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="63"/>
         <source>What is your most terrible memory?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mis on sinu kõige jubedam mälestus?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="64"/>
