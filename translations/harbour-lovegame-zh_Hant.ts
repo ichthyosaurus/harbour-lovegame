@@ -6,18 +6,18 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="67"/>
         <source>Acknowledgments</source>
-        <translation type="unfinished"></translation>
+        <translation>謝辭</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="46"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished"></translation>
+        <translation>一款關於建立情感連結的遊戲。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="74"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
-        <translation type="unfinished"></translation>
+        <translation>背景</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="79"/>
@@ -27,87 +27,87 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>所有問題與指示均引用自Aron等人（1997年，第374頁），並僅為本遊戲稍作調整。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
-        <translation type="unfinished"></translation>
+        <translation>本應用程式模擬自Anuraag Yachamaneni的Android版《愛情遊戲》。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
-        <translation type="unfinished"></translation>
+        <translation>本遊戲參考Aron等人（1997年，《人格與社會心理學通報》第23卷第4期）的研究。</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="87"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>開發</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="90"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>編程</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="94"/>
         <source>Icon Design</source>
-        <translation type="unfinished"></translation>
+        <translation>圖標設計</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="102"/>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>翻譯</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>維吾爾語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>烏克蘭語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="117"/>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>土耳其語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="126"/>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>坦米爾語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="132"/>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>瑞典語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="139"/>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>西班牙語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="146"/>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>斯洛伐克語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="154"/>
         <source>Serbian</source>
-        <translation type="unfinished"></translation>
+        <translation>塞爾維亞語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="160"/>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>俄語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="172"/>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>羅馬尼亞語</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="178"/>
@@ -225,7 +225,7 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/AskForSupport.qml" line="13"/>
         <source>Please take a moment to consider if you can contribute to this project in one way or another.</source>
-        <translation type="unfinished"></translation>
+        <translation>請花點時間思考，你是否能以某種方式為這個專案做出貢獻。</translation>
     </message>
 </context>
 <context>
@@ -233,12 +233,12 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show less</source>
-        <translation type="unfinished"></translation>
+        <translation>收起</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/DetailsDrawer.qml" line="54"/>
         <source>show more</source>
-        <translation type="unfinished"></translation>
+        <translation>展開</translation>
     </message>
 </context>
 <context>
@@ -251,32 +251,32 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="65"/>
         <source>How to play</source>
-        <translation type="unfinished"></translation>
+        <translation>怎麽遊玩</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>出發啦！</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>這個遊戲是透過分享來拉近彼此的距離。</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>將獲得36項任務。其中一人應朗讀其中一項，然後&lt;b&gt;雙方&lt;/b&gt;開始執行該任務，由朗讀任務的人先行開始。</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>與夥伴輪流朗讀每個問題。如果是提問，先分享你的答案，再讓對方分享他們的答案。如果是任務，先完成它，再讓夥伴執行。</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation type="unfinished"></translation>
+        <translation>每個專案都應投入充分時間，全面而周詳地完成其要求——但&lt;b&gt;切勿跳過任何&lt;/b&gt;專案。</translation>
     </message>
 </context>
 <context>
@@ -284,7 +284,7 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="119"/>
         <source>License text</source>
-        <translation type="unfinished"></translation>
+        <translation>許可證文本</translation>
     </message>
 </context>
 <context>
@@ -292,62 +292,62 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>藉由Liberapay平台捐款</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
-        <translation type="unfinished"></translation>
+        <translation>付一咖咖啡、一角披薩或一張電影票的錢。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="22"/>
         <source>Translate on Weblate</source>
-        <translation type="unfinished"></translation>
+        <translation>藉由Weblate平台翻譯</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="23"/>
         <source>Help with translating this app in as many languages as possible.</source>
-        <translation type="unfinished"></translation>
+        <translation>透過平台上進行翻譯此應用程式，支援盡可能多的語言。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Develop on Github</source>
-        <translation type="unfinished"></translation>
+        <translation>透過GitHub進行開發</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
-        <translation type="unfinished"></translation>
+        <translation>提供維護與包裝支援、撰寫程式碼或提交寶貴的錯誤報告。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Why should you care?</source>
-        <translation type="unfinished"></translation>
+        <translation>你為什麼要在意？</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="40"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
-        <translation type="unfinished"></translation>
+        <translation>這專案是構建和存活於一個普通程式師在閒暇時的愛與熱情之上的； 我也把它免費提供給您。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="46"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
-        <translation type="unfinished"></translation>
+        <translation>我在開發自由軟體，因為我覺得這是我的本分—而它又是一項趣味的興趣。 但是，開發軟件佔用了我很多很多時間和精力。 由於Salifish和我基本生活日常都需要金錢，我亟須你們的支持，才能有能力把時間花在這種非牟利的專案上。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="56"/>
         <source>Why donate?</source>
-        <translation type="unfinished"></translation>
+        <translation>為什麽捐款？</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="59"/>
         <source>Jolla raised prices and is trying to force developers (who work for free) to pay rent for Sailfish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jolla 提高價格，並試圖強迫開發者（這些原本免費工作的人）為 Sailfish 系統支付租金。</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="64"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您有能力，捐款是最簡單的方式，能讓我繼續為 Sailfish 開發應用程式。無論金額多少都歡迎，一杯咖啡、一片披薩，或是更多都無妨。</translation>
     </message>
 </context>
 <context>
@@ -355,29 +355,29 @@
     <message>
         <location filename="../qml/modules/Opal/About/InfoSection.qml" line="16"/>
         <source>show details</source>
-        <translation type="unfinished"></translation>
+        <translation>查看明細</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="23"/>
         <source>Contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>捐赠者</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="102"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="33"/>
         <source>Development</source>
-        <translation type="unfinished"></translation>
+        <translation>開發</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsPage.qml" line="39"/>
         <source>Acknowledgements</source>
-        <translation type="unfinished"></translation>
+        <translation>致谢</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="11"/>
         <source>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>感謝！</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="15"/>
@@ -391,7 +391,7 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="25"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="50"/>
         <source>Source Code</source>
-        <translation type="unfinished"></translation>
+        <translation>原始碼</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="107"/>
@@ -399,39 +399,39 @@
         <location filename="../qml/modules/Opal/About/private/ContributorsAttributionRepeater.qml" line="24"/>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="47"/>
         <source>Homepage</source>
-        <translation type="unfinished"></translation>
+        <translation>首頁</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="28"/>
         <source>Download license texts</source>
-        <translation type="unfinished"></translation>
+        <translation>下載授權文本</translation>
     </message>
     <message numerus="yes">
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="34"/>
         <source>License(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>許可條款</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicensePage.qml" line="44"/>
         <source>Note: please check the source code for most accurate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>請注意：請查閱原始碼以獲取最準確的資訊。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="57"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>關於</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="86"/>
         <source>Version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>版本號%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="105"/>
         <source>show contributors</source>
-        <translation type="unfinished"></translation>
+        <translation>顯示捐贈者</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/AboutPageBase.qml" line="113"/>
@@ -464,17 +464,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="61"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation>新聞</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/ChangelogNews.qml" line="62"/>
         <source>Changes since version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>版本變更%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/LicenseListPart.qml" line="120"/>
         <source>Please refer to &lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>詳見&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -482,17 +482,17 @@
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="7"/>
         <source>If you want to support my work, you can buy me a cup of coffee.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果你想支持我的工作，可以買我杯咖啡，</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="8"/>
         <source>You can support this project by contributing, or by donating using any of these services.</source>
-        <translation type="unfinished"></translation>
+        <translation>您可透過貢獻或使用以下服務捐贈來支持本專案。</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/About/private/DonationsGroup.qml" line="9"/>
         <source>Your contributions to translations or code would be most welcome.</source>
-        <translation type="unfinished"></translation>
+        <translation>歡迎貢獻翻譯或代碼。</translation>
     </message>
 </context>
 <context>
@@ -500,12 +500,12 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="24"/>
         <source>External Link</source>
-        <translation type="unfinished"></translation>
+        <translation>外部連結</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>將文字複製到剪貼簿</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="55"/>
@@ -515,27 +515,27 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>在瀏覽器中打開</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="60"/>
         <source>Open externally</source>
-        <translation type="unfinished"></translation>
+        <translation>對外開放</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="17"/>
         <source>Copied to clipboard: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已複製到剪貼簿：%1</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>共享連結</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="50"/>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>複製到剪貼簿</translation>
     </message>
 </context>
 <context>
@@ -567,12 +567,12 @@
         <location filename="../qml/pages/QuestionPage.qml" line="88"/>
         <source>Have a pleasant day!</source>
         <comment>translate as plural as two people are addressed</comment>
-        <translation type="unfinished"></translation>
+        <translation>祝你今天過得愉快！</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="163"/>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>重新啟動</translation>
     </message>
 </context>
 <context>
@@ -580,22 +580,22 @@
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="9"/>
         <source>Hi there!</source>
-        <translation type="unfinished"></translation>
+        <translation>哈囉！</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="10"/>
         <source>Thank you for using my little app! Maybe you can contribute back?</source>
-        <translation type="unfinished"></translation>
+        <translation>感謝您使用我的小小應用程式！或許您願意給予一些回饋呢？</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="11"/>
         <source>Thank you for your support!</source>
-        <translation type="unfinished"></translation>
+        <translation>感謝您的支持！</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="57"/>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>稍後提醒我</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/SupportMe/SupportDialog.qml" line="59"/>
