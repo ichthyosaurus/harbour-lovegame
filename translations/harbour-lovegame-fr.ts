@@ -207,7 +207,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="333"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabe</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="351"/>
@@ -507,7 +507,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="44"/>
         <source>Copy text to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier le texte vers le presse-papier</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="55"/>
@@ -532,7 +532,7 @@
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="15"/>
         <source>Share link</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager le lien</translation>
     </message>
     <message>
         <location filename="../qml/modules/Opal/LinkHandler/private/ExternalUrlPage.qml" line="50"/>
